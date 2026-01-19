@@ -1,0 +1,41 @@
+{
+  "templates": [
+    {
+      "name": "trendsetters-homepage",
+      "urls": ["https://wknd-trendsetters.site"],
+      "description": "Fashion blog homepage with hero section, feature grid, article cards, tabs showcase, and FAQ accordion",
+      "blocks": [
+        {
+          "name": "columns-hero-images",
+          "instances": [
+            "header .w-layout-grid.grid-gap-md.utility-margin-top-8rem"
+          ]
+        },
+        {
+          "name": "cards-features",
+          "instances": [
+            "section.section:not(.secondary-section):not(.inverse-section) .w-layout-grid.desktop-4-column.tablet-3-column"
+          ]
+        },
+        {
+          "name": "cards-articles",
+          "instances": [
+            "section.secondary-section .w-layout-grid.tablet-1-column.grid-gap-md"
+          ]
+        },
+        {
+          "name": "tabs-showcase",
+          "instances": [
+            "section.inverse-section .w-tabs"
+          ]
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [
+            "section.secondary-section .flex-vertical:has(.accordion)"
+          ]
+        }
+      ]
+    }
+  ]
+}
