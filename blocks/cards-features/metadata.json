@@ -1,0 +1,38 @@
+{
+  "variantName": "cards-features",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-01-19T05:35:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site",
+    "originPage": "Fashion blog homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "features-grid",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "grid of icon + text items",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Feature lists with icons",
+      "Service highlights",
+      "Benefit grids"
+    ],
+    "notSuitableFor": [
+      "Article cards with images",
+      "Product showcases"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-01-19T05:35:00.000Z"
+  }
+}
