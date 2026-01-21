@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-vlp",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-01-21T07:12:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.nissan.in/vehicles/new/nissan-magnite.html",
+    "originPage": "Nissan Magnite Vehicle Landing Page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "vehicle-landing",
+    "imagePattern": "fullwidth-background"
+  },
+  "contentPattern": {
+    "structure": "background image + title + description + CTAs",
+    "buttonCount": 2,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Vehicle landing pages",
+      "Product showcase pages",
+      "Dark-themed hero sections with background images"
+    ],
+    "notSuitableFor": [
+      "Light-themed pages",
+      "Text-only hero sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/vehicles/new/nissan-magnite"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-21T07:12:00.000Z"
+  }
+}

@@ -49,6 +49,31 @@
           ]
         }
       ]
+    },
+    {
+      "name": "nissan-magnite-vlp",
+      "urls": ["https://www.nissan.in/vehicles/new/nissan-magnite.html"],
+      "description": "Nissan Magnite Vehicle Landing Page with hero sections, feature galleries, variant selector",
+      "blocks": [
+        {
+          "name": "hero-vlp",
+          "instances": [
+            ".ns-inview-trigger.ns-story:not(.ns-story-gallery)"
+          ]
+        },
+        {
+          "name": "cards",
+          "instances": [
+            ".ns-story-gallery .ns-gallery-list"
+          ]
+        },
+        {
+          "name": "tabs-showcase",
+          "instances": [
+            ".enhanced-grade-walk-container"
+          ]
+        }
+      ]
     }
   ]
 }
