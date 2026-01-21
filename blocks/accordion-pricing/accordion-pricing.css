@@ -1,0 +1,85 @@
+.accordion-pricing details {
+  border: 1px solid #dadada;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.accordion-pricing details + details {
+  margin-top: 24px;
+}
+
+.accordion-pricing details p {
+  margin-bottom: 0.8em;
+}
+
+.accordion-pricing details summary {
+  position: relative;
+  padding: 0 16px;
+  padding-right: 46px;
+  cursor: pointer;
+  list-style: none;
+  overflow: auto;
+  transition: background-color 0.2s;
+}
+
+.accordion-pricing details[open] summary {
+  background-color: var(--light-color);
+}
+
+.accordion-pricing details summary:focus,
+.accordion-pricing details summary:hover {
+  background-color: var(--light-color);
+}
+
+.accordion-pricing details summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-pricing details summary::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  transform: translateY(-50%) rotate(135deg);
+  width: 6px;
+  height: 6px;
+  border: 2px solid;
+  border-width: 2px 2px 0 0;
+  transition: transform 0.2s;
+}
+
+.accordion-pricing details[open] summary::after {
+  transform: translateY(-50%) rotate(-45deg);
+}
+
+.accordion-pricing details .accordion-pricing-item-body {
+  padding: 0 16px;
+}
+
+.accordion-pricing details[open] .accordion-pricing-item-body {
+  border-top: 1px solid #dadada;
+  background-color: var(--background-color);
+}
+
+/* Pricing table styles */
+.accordion-pricing table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.accordion-pricing table th,
+.accordion-pricing table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #dadada;
+}
+
+.accordion-pricing table th {
+  background-color: #c3002f;
+  color: white;
+  font-weight: 600;
+}
+
+.accordion-pricing table tr:hover {
+  background-color: #f5f5f5;
+}
