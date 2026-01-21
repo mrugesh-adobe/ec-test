@@ -1,0 +1,40 @@
+{
+  "variantName": "accordion-pricing",
+  "baseBlock": "accordion",
+  "version": "1.0.0",
+  "created": "2026-01-21T06:45:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.nissan.in/prices-list.html",
+    "originPage": "Nissan India Price List",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "standard",
+    "purpose": "pricing",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "title + price table",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Price lists",
+      "Product pricing tables",
+      "Spec sheets with tabular data",
+      "Collapsible data tables"
+    ],
+    "notSuitableFor": [
+      "FAQ content",
+      "Q&A sections",
+      "Image galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/prices-list"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-21T06:45:00.000Z"
+  }
+}

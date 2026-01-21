@@ -36,6 +36,19 @@
           ]
         }
       ]
+    },
+    {
+      "name": "nissan-price-list",
+      "urls": ["https://www.nissan.in/prices-list.html"],
+      "description": "Nissan India price list page with accordion pricing tables for vehicle variants",
+      "blocks": [
+        {
+          "name": "accordion-pricing",
+          "instances": [
+            ".accordion-group.accordion-list"
+          ]
+        }
+      ]
     }
   ]
 }
