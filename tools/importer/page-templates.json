@@ -74,6 +74,38 @@
           ]
         }
       ]
+    },
+    {
+      "name": "renault-triber-vlp",
+      "urls": ["https://www.renault.co.in/cars/renault-triber.html"],
+      "description": "Renault Triber Vehicle Landing Page with hero, variants, feature cards, and safety sections",
+      "blocks": [
+        {
+          "name": "hero-vlp",
+          "instances": [
+            "[data-testid='hero-zone']"
+          ]
+        },
+        {
+          "name": "tabs-showcase",
+          "instances": [
+            "[data-testid='grade-carousel']"
+          ]
+        },
+        {
+          "name": "cards",
+          "instances": [
+            "[data-testid='editorial-carousel']",
+            "[data-testid='feature-cards']"
+          ]
+        },
+        {
+          "name": "columns",
+          "instances": [
+            "[data-testid='two-column-section']"
+          ]
+        }
+      ]
     }
   ]
 }
