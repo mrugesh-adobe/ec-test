@@ -5,7 +5,7 @@
 
 .hero-vlp {
   position: relative;
-  padding: 40px 24px;
+  padding: var(--spacing-2xl) var(--spacing-lg);
   min-height: 500px;
   display: flex;
   align-items: flex-end;
@@ -15,7 +15,7 @@
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
-  padding: 40px 0;
+  padding: var(--spacing-2xl) 0;
 }
 
 .hero-vlp h1,
@@ -24,16 +24,16 @@
 .hero-vlp h4,
 .hero-vlp h5,
 .hero-vlp h6 {
-  color: #fff;
+  color: var(--section-inverse-text);
   text-transform: uppercase;
   font-weight: 700;
-  margin-bottom: 16px;
+  margin-bottom: var(--spacing-md);
 }
 
 .hero-vlp p {
-  color: #fff;
+  color: var(--section-inverse-text);
   max-width: 600px;
-  margin-bottom: 24px;
+  margin-bottom: var(--spacing-lg);
 }
 
 .hero-vlp.no-image * {
@@ -53,21 +53,21 @@
 }
 
 .hero-vlp a.button {
-  background-color: #c3002f;
-  color: #fff;
+  background-color: var(--brand-primary);
+  color: var(--brand-primary-text);
   border: none;
-  padding: 12px 24px;
+  padding: 12px var(--spacing-lg);
   font-weight: 600;
   text-transform: uppercase;
 }
 
 .hero-vlp a.button:hover {
-  background-color: #a00028;
+  background-color: var(--brand-primary-hover);
 }
 
 .hero-vlp a.button.secondary {
   background-color: transparent;
-  border: 2px solid #fff;
+  border: 2px solid var(--section-inverse-text);
 }
 
 .hero-vlp a.button.secondary:hover {
@@ -76,7 +76,7 @@
 
 @media (width >= 900px) {
   .hero-vlp {
-    padding: 60px 32px;
+    padding: var(--spacing-3xl) var(--spacing-xl);
     min-height: 600px;
   }
 }

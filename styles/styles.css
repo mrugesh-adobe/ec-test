@@ -14,6 +14,15 @@
   --link-color: #000;
   --link-hover-color: #000;
 
+  /* borders */
+  --border-color: #dadada;
+  --border-color-light: rgba(0, 0, 0, 0.1);
+
+  /* brand colors */
+  --brand-primary: #c3002f;
+  --brand-primary-hover: #a00028;
+  --brand-primary-text: #fff;
+
   /* accent color - yellow-green */
   --accent-color: #f4fe8b;
   --accent-color-transparent: rgba(244, 254, 139, 0.5);

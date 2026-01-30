@@ -23,7 +23,7 @@
   .columns-hero-images > div {
     align-items: center;
     flex-direction: unset;
-    gap: 24px;
+    gap: var(--spacing-lg);
   }
 
   .columns-hero-images > div > div {
