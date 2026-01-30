@@ -1,10 +1,10 @@
 .accordion-pricing details {
-  border: 1px solid #dadada;
+  border: 1px solid var(--border-color);
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
 .accordion-pricing details + details {
-  margin-top: 24px;
+  margin-top: var(--spacing-lg);
 }
 
 .accordion-pricing details p {
@@ -13,7 +13,7 @@
 
 .accordion-pricing details summary {
   position: relative;
-  padding: 0 16px;
+  padding: 0 var(--spacing-md);
   padding-right: 46px;
   cursor: pointer;
   list-style: none;
@@ -52,11 +52,11 @@
 }
 
 .accordion-pricing details .accordion-pricing-item-body {
-  padding: 0 16px;
+  padding: 0 var(--spacing-md);
 }
 
 .accordion-pricing details[open] .accordion-pricing-item-body {
-  border-top: 1px solid #dadada;
+  border-top: 1px solid var(--border-color);
   background-color: var(--background-color);
 }
 
@@ -64,22 +64,22 @@
 .accordion-pricing table {
   width: 100%;
   border-collapse: collapse;
-  margin: 16px 0;
+  margin: var(--spacing-md) 0;
 }
 
 .accordion-pricing table th,
 .accordion-pricing table td {
-  padding: 12px 16px;
+  padding: 12px var(--spacing-md);
   text-align: left;
-  border-bottom: 1px solid #dadada;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .accordion-pricing table th {
-  background-color: #c3002f;
-  color: white;
+  background-color: var(--brand-primary);
+  color: var(--brand-primary-text);
   font-weight: 600;
 }
 
 .accordion-pricing table tr:hover {
-  background-color: #f5f5f5;
+  background-color: var(--light-color);
 }

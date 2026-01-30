@@ -1,10 +1,10 @@
 .accordion-faq details {
-  border: 1px solid #dadada;
+  border: 1px solid var(--border-color);
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
 .accordion-faq details + details {
-  margin-top: 24px;
+  margin-top: var(--spacing-lg);
 }
 
 .accordion-faq details p {
@@ -13,7 +13,7 @@
 
 .accordion-faq details summary {
   position: relative;
-  padding: 0 16px;
+  padding: 0 var(--spacing-md);
   padding-right: 46px;
   cursor: pointer;
   list-style: none;
@@ -52,10 +52,10 @@
 }
 
 .accordion-faq details .accordion-faq-item-body {
-  padding: 0 16px;
+  padding: 0 var(--spacing-md);
 }
 
 .accordion-faq details[open] .accordion-faq-item-body {
-  border-top: 1px solid #dadada;
+  border-top: 1px solid var(--border-color);
   background-color: var(--background-color);
 }
