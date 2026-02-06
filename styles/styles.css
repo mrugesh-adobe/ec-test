@@ -9,14 +9,14 @@
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #000;
-  --text-color-muted: rgba(0, 0, 0, 0.7);
-  --text-color-subtle: rgba(0, 0, 0, 0.6);
+  --text-color-muted: rgb(0 0 0 / 70%);
+  --text-color-subtle: rgb(0 0 0 / 60%);
   --link-color: #000;
   --link-hover-color: #000;
 
   /* borders */
   --border-color: #dadada;
-  --border-color-light: rgba(0, 0, 0, 0.1);
+  --border-color-light: rgb(0 0 0 / 10%);
 
   /* brand colors */
   --brand-primary: #c3002f;
@@ -25,18 +25,18 @@
 
   /* accent color - yellow-green */
   --accent-color: #f4fe8b;
-  --accent-color-transparent: rgba(244, 254, 139, 0.5);
-  --accent-color-hover: rgba(244, 254, 139, 0.1);
+  --accent-color-transparent: rgb(244 254 139 / 50%);
+  --accent-color-hover: rgb(244 254 139 / 10%);
 
   /* section backgrounds */
   --section-secondary-bg: #f7f8f5;
   --section-inverse-bg: #000;
   --section-inverse-text: #fff;
-  --section-inverse-text-muted: rgba(255, 255, 255, 0.7);
+  --section-inverse-text-muted: rgb(255 255 255 / 70%);
 
   /* fonts */
   --body-font-family: "Instrument Sans", instrument-sans-fallback, sans-serif;
-  --heading-font-family: Syncopate, syncopate-fallback, sans-serif;
+  --heading-font-family: syncopate, syncopate-fallback, sans-serif;
 
   /* body sizes */
   --body-font-size-m: 16px;
@@ -76,7 +76,7 @@
   --button-transition: border-color 0.2s, color 0.2s, background-color 0.2s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.2s;
 
   /* tags */
-  --tag-bg: rgba(0, 0, 0, 0.1);
+  --tag-bg: rgb(0 0 0 / 10%);
   --tag-padding: 2px 9px;
   --tag-border-radius: 1600px;
   --tag-font-size: 12px;
@@ -285,10 +285,11 @@ a.button.secondary:focus,
 button.secondary:hover,
 button.secondary:focus {
   background-color: var(--accent-color-hover);
-  box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.7);
+  box-shadow: inset 0 0 0 2px rgb(0 0 0 / 70%);
 }
 
 /* Button container - for multiple buttons */
+/* stylelint-disable-next-line no-descending-specificity */
 p > a.button + a.button,
 p > strong > a.button {
   margin-left: var(--spacing-sm);
@@ -312,7 +313,7 @@ p > a.button:only-child:any-link {
 
 p > a.button:not(:first-child):hover,
 p > a.button:not(:first-child):focus {
-  box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.7);
+  box-shadow: inset 0 0 0 2px rgb(0 0 0 / 70%);
 }
 
 /* Tags */
@@ -404,7 +405,7 @@ main > .section.inverse a.button.secondary:hover,
 main > .section.inverse a.button.secondary:focus,
 main > .section.inverse button.secondary:hover,
 main > .section.inverse button.secondary:focus {
-  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.7);
+  box-shadow: inset 0 0 0 2px rgb(255 255 255 / 70%);
 }
 
 /* Light section (default) */
