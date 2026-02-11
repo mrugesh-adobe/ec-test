@@ -4,7 +4,7 @@
  */
 
 .columns-feature-cta-container {
-  background-color: #e8edf4;
+  background-color: #e8ecf1;
 }
 
 .columns-feature-cta-container .columns-feature-cta-wrapper {
@@ -23,7 +23,7 @@
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 12px;
+  border-radius: 14px;
 }
 
 .columns-feature-cta > div > div {
@@ -43,44 +43,44 @@
 
 /* Eyebrow label (bold text before heading) */
 .columns-feature-cta > div > div:not(.columns-feature-cta-img-col) > p:first-child {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.06em;
   color: var(--text-color);
-  margin: 0 0 12px 0;
+  margin: 0 0 10px 0;
 }
 
 /* Heading */
 .columns-feature-cta h1,
 .columns-feature-cta h2 {
   font-family: var(--body-font-family);
-  font-weight: 900;
+  font-weight: 800;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.08;
   letter-spacing: -0.02em;
   margin: 0 0 16px 0;
-  color: var(--text-color);
+  color: #1a1a1a;
 }
 
 /* Description text */
 .columns-feature-cta > div > div:not(.columns-feature-cta-img-col) > p:not(:first-child):not(.button-container) {
   font-size: 16px;
-  line-height: 1.6;
-  color: #505050;
+  line-height: 1.5;
+  color: #3b3b3b;
   margin: 0 0 24px 0;
 }
 
 /* CTA button */
 .columns-feature-cta .button-container {
-  margin: 0;
+  margin: 8px 0 0;
 }
 
 .columns-feature-cta a.button:any-link {
   display: inline-block;
   background-color: transparent;
   color: var(--text-color);
-  border: 1.5px solid var(--text-color);
+  border: 1px solid var(--text-color);
   border-radius: 100px;
   padding: 10px 20px;
   font-size: 14px;
@@ -98,6 +98,10 @@
 }
 
 @media (width >= 900px) {
+  main > .section.columns-feature-cta-container {
+    padding: 88px 0;
+  }
+
   .columns-feature-cta > div {
     flex-direction: row;
     align-items: center;
@@ -111,6 +115,6 @@
 
   .columns-feature-cta h1,
   .columns-feature-cta h2 {
-    font-size: 44px;
+    font-size: 42px;
   }
 }
