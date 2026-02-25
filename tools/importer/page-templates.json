@@ -1,111 +1,12 @@
 {
   "templates": [
     {
-      "name": "trendsetters-homepage",
-      "urls": ["https://wknd-trendsetters.site"],
-      "description": "Fashion blog homepage with hero section, feature grid, article cards, tabs showcase, and FAQ accordion",
-      "blocks": [
-        {
-          "name": "columns-hero-images",
-          "instances": [
-            "header .w-layout-grid.grid-gap-md.utility-margin-top-8rem"
-          ]
-        },
-        {
-          "name": "cards-features",
-          "instances": [
-            "section.section:not(.secondary-section):not(.inverse-section) .w-layout-grid.desktop-4-column.tablet-3-column"
-          ]
-        },
-        {
-          "name": "cards-articles",
-          "instances": [
-            "section.secondary-section .w-layout-grid.tablet-1-column.grid-gap-md"
-          ]
-        },
-        {
-          "name": "tabs-showcase",
-          "instances": [
-            "section.inverse-section .w-tabs"
-          ]
-        },
-        {
-          "name": "accordion-faq",
-          "instances": [
-            "section.secondary-section .flex-vertical:has(.accordion)"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "nissan-price-list",
-      "urls": ["https://www.nissan.in/prices-list.html"],
-      "description": "Nissan India price list page with accordion pricing tables for vehicle variants",
-      "blocks": [
-        {
-          "name": "accordion-pricing",
-          "instances": [
-            ".accordion-group.accordion-list"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "nissan-magnite-vlp",
-      "urls": ["https://www.nissan.in/vehicles/new/nissan-magnite.html"],
-      "description": "Nissan Magnite Vehicle Landing Page with hero sections, feature galleries, variant selector",
-      "blocks": [
-        {
-          "name": "hero-vlp",
-          "instances": [
-            ".ns-inview-trigger.ns-story:not(.ns-story-gallery)"
-          ]
-        },
-        {
-          "name": "cards",
-          "instances": [
-            ".ns-story-gallery .ns-gallery-list"
-          ]
-        },
-        {
-          "name": "tabs-showcase",
-          "instances": [
-            ".enhanced-grade-walk-container"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "renault-triber-vlp",
-      "urls": ["https://www.renault.co.in/cars/renault-triber.html"],
-      "description": "Renault Triber Vehicle Landing Page with hero, variants, feature cards, and safety sections",
-      "blocks": [
-        {
-          "name": "hero-vlp",
-          "instances": [
-            "[data-testid='hero-zone']"
-          ]
-        },
-        {
-          "name": "tabs-showcase",
-          "instances": [
-            "[data-testid='grade-carousel']"
-          ]
-        },
-        {
-          "name": "cards",
-          "instances": [
-            "[data-testid='editorial-carousel']",
-            "[data-testid='feature-cards']"
-          ]
-        },
-        {
-          "name": "columns",
-          "instances": [
-            "[data-testid='two-column-section']"
-          ]
-        }
-      ]
+      "name": "smashing-blog-article",
+      "urls": [
+        "https://www.smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"
+      ],
+      "description": "Smashing Magazine long-form blog article with default content only (headings, paragraphs, lists, images with captions, blockquotes, code blocks). No EDS blocks needed.",
+      "blocks": []
     }
   ]
 }
