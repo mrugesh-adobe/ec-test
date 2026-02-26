@@ -1,0 +1,142 @@
+/* Import component-specific tokens */
+@import './columns-featured-tokens.css';
+
+/* columns-featured block styles */
+
+.columns-featured > div {
+  display: flex;
+  flex-direction: column;
+  gap: var(--columns-featured-gap);
+}
+
+.columns-featured img {
+  width: 100%;
+}
+
+.columns-featured > div > div {
+  order: 1;
+  color: var(--columns-featured-text-color);
+}
+
+@media (width >= 900px) {
+  .columns-featured > div {
+    align-items: var(--columns-featured-column-align);
+    flex-direction: row;
+    gap: var(--columns-featured-gap);
+  }
+
+  .columns-featured > div > div {
+    order: unset;
+  }
+
+  .columns-featured > div > div:first-child {
+    flex: 1.2;
+  }
+
+  .columns-featured > div > div:last-child {
+    flex: 1;
+  }
+}
+
+/* ===== LEFT COLUMN: Featured Card ===== */
+.columns-featured > div > div:first-child {
+  display: flex;
+  flex-direction: column;
+  gap: var(--columns-featured-card-gap);
+  padding: var(--columns-featured-card-padding);
+  border-radius: var(--columns-featured-card-border-radius);
+  background: var(--columns-featured-card-background);
+  border: var(--columns-featured-card-border-width) solid var(--columns-featured-card-border-color);
+  box-shadow: var(--columns-featured-card-shadow);
+}
+
+.columns-featured > div > div:first-child picture img {
+  border-radius: var(--columns-featured-card-image-border-radius);
+  border: var(--columns-featured-card-image-border);
+  aspect-ratio: var(--columns-featured-card-image-aspect-ratio);
+  object-fit: cover;
+}
+
+.columns-featured > div > div:first-child p strong {
+  font-family: var(--columns-featured-card-title-font-family);
+  font-weight: var(--columns-featured-card-title-font-weight);
+  font-size: var(--columns-featured-card-title-font-size);
+  line-height: var(--columns-featured-card-title-line-height);
+  display: block;
+  margin-bottom: var(--columns-featured-card-text-gap);
+}
+
+.columns-featured > div > div:first-child p {
+  font-family: var(--columns-featured-card-desc-font-family);
+  font-weight: var(--columns-featured-card-desc-font-weight);
+  font-size: var(--columns-featured-card-desc-font-size);
+  line-height: var(--columns-featured-card-desc-line-height);
+  margin: 0;
+}
+
+.columns-featured > div > div:first-child p a {
+  display: inline-block;
+  margin-top: var(--columns-featured-card-gap);
+  background: var(--columns-featured-card-button-bg);
+  color: var(--columns-featured-card-button-color);
+  border-radius: var(--columns-featured-card-button-border-radius);
+  font-family: var(--columns-featured-card-button-font-family);
+  font-weight: var(--columns-featured-card-button-font-weight);
+  font-size: var(--columns-featured-card-button-font-size);
+  line-height: var(--columns-featured-card-button-line-height);
+  padding: var(--columns-featured-card-button-padding);
+  text-decoration: none;
+}
+
+/* ===== RIGHT COLUMN: Text Content ===== */
+.columns-featured > div > div:last-child {
+  display: flex;
+  flex-direction: column;
+  gap: var(--columns-featured-text-block-gap);
+  justify-content: center;
+}
+
+/* Eyebrow text - first paragraph */
+.columns-featured > div > div:last-child p:first-child {
+  font-family: var(--columns-featured-eyebrow-font-family);
+  font-weight: var(--columns-featured-eyebrow-font-weight);
+  font-size: var(--columns-featured-eyebrow-font-size);
+  line-height: var(--columns-featured-eyebrow-line-height);
+  letter-spacing: var(--columns-featured-eyebrow-letter-spacing);
+  text-transform: var(--columns-featured-eyebrow-text-transform);
+  margin: 0;
+}
+
+/* Section heading */
+.columns-featured > div > div:last-child p strong {
+  font-family: var(--columns-featured-heading-font-family);
+  font-weight: var(--columns-featured-heading-font-weight);
+  font-size: var(--columns-featured-heading-font-size);
+  line-height: var(--columns-featured-heading-line-height);
+  display: block;
+}
+
+/* Description paragraph */
+.columns-featured > div > div:last-child p:nth-child(3) {
+  font-family: var(--columns-featured-desc-font-family);
+  font-weight: var(--columns-featured-desc-font-weight);
+  font-size: var(--columns-featured-desc-font-size);
+  line-height: var(--columns-featured-desc-line-height);
+  margin: 0;
+}
+
+/* CTA button (outlined) */
+.columns-featured > div > div:last-child p a {
+  display: inline-block;
+  margin-top: var(--columns-featured-text-gap);
+  border: var(--columns-featured-cta-border);
+  border-radius: var(--columns-featured-cta-border-radius);
+  background: var(--columns-featured-cta-background);
+  color: var(--columns-featured-cta-color);
+  font-family: var(--columns-featured-cta-font-family);
+  font-weight: var(--columns-featured-cta-font-weight);
+  font-size: var(--columns-featured-cta-font-size);
+  line-height: var(--columns-featured-cta-line-height);
+  padding: var(--columns-featured-cta-padding);
+  text-decoration: none;
+}

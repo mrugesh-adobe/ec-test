@@ -1,0 +1,86 @@
+/* columns-featured tokens - extracted from Figma node 2681:501 */
+/* All values sourced from columns-featured-measurements.txt */
+
+.columns-featured {
+  /* ===== LAYOUT & DIMENSIONS ===== */
+  --columns-featured-max-width: 1200px;
+  --columns-featured-gap: 32px;
+  --columns-featured-column-align: center;
+
+  /* ===== CARD COLUMN (LEFT) ===== */
+  --columns-featured-card-padding: 24px;
+  --columns-featured-card-gap: 24px;
+  --columns-featured-card-border-radius: 16px;
+  --columns-featured-card-background: rgba(255, 255, 255, 0.5);
+  --columns-featured-card-border-width: 2px;
+  --columns-featured-card-border-color: rgba(255, 255, 255, 0.6);
+  --columns-featured-card-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.25);
+
+  /* ===== CARD IMAGE ===== */
+  --columns-featured-card-image-border-radius: 8px;
+  --columns-featured-card-image-border: 2px solid rgba(255, 255, 255, 0.5);
+  --columns-featured-card-image-aspect-ratio: 540 / 231;
+
+  /* ===== TEXT COLOR ===== */
+  --columns-featured-text-color: #2c2c2c;
+
+  /* ===== CARD TITLE TYPOGRAPHY ===== */
+  --columns-featured-card-title-font-family: 'Adobe Clean Display', sans-serif;
+  --columns-featured-card-title-font-weight: 900;
+  --columns-featured-card-title-font-size: 28px;
+  --columns-featured-card-title-line-height: 35px;
+
+  /* ===== CARD DESCRIPTION TYPOGRAPHY ===== */
+  --columns-featured-card-desc-font-family: 'Adobe Clean', sans-serif;
+  --columns-featured-card-desc-font-weight: 400;
+  --columns-featured-card-desc-font-size: 16px;
+  --columns-featured-card-desc-line-height: 24px;
+
+  /* ===== CARD TEXT GAP ===== */
+  --columns-featured-card-text-gap: 8px;
+
+  /* ===== CARD BUTTON ===== */
+  --columns-featured-card-button-bg: #3b63fb;
+  --columns-featured-card-button-color: #fff;
+  --columns-featured-card-button-border-radius: 100px;
+  --columns-featured-card-button-font-family: 'Adobe Clean', sans-serif;
+  --columns-featured-card-button-font-weight: 700;
+  --columns-featured-card-button-font-size: 17px;
+  --columns-featured-card-button-line-height: 21px;
+  --columns-featured-card-button-padding: 9px 18px 10px;
+
+  /* ===== TEXT COLUMN (RIGHT) ===== */
+  --columns-featured-text-gap: 24px;
+  --columns-featured-text-block-gap: 8px;
+
+  /* ===== EYEBROW TYPOGRAPHY ===== */
+  --columns-featured-eyebrow-font-family: 'Adobe Clean', sans-serif;
+  --columns-featured-eyebrow-font-weight: 700;
+  --columns-featured-eyebrow-font-size: 16px;
+  --columns-featured-eyebrow-line-height: 20px;
+  --columns-featured-eyebrow-letter-spacing: 0.8px;
+  --columns-featured-eyebrow-text-transform: uppercase;
+
+  /* ===== SECTION HEADING TYPOGRAPHY ===== */
+  --columns-featured-heading-font-family: 'Adobe Clean Display', sans-serif;
+  --columns-featured-heading-font-weight: 900;
+  --columns-featured-heading-font-size: 44px;
+  --columns-featured-heading-line-height: 55px;
+
+  /* ===== SECTION DESCRIPTION TYPOGRAPHY ===== */
+  --columns-featured-desc-font-family: 'Adobe Clean', sans-serif;
+  --columns-featured-desc-font-weight: 400;
+  --columns-featured-desc-font-size: 20px;
+  --columns-featured-desc-line-height: 30px;
+
+  /* ===== CTA BUTTON (OUTLINED) ===== */
+  --columns-featured-cta-border-radius: 100px;
+  --columns-featured-cta-border: 2px solid #2c2c2c;
+  --columns-featured-cta-font-family: 'Adobe Clean', sans-serif;
+  --columns-featured-cta-font-weight: 700;
+  --columns-featured-cta-font-size: 17px;
+  --columns-featured-cta-line-height: 21px;
+  --columns-featured-cta-color: #2c2c2c;
+  --columns-featured-cta-background: transparent;
+  --columns-featured-cta-padding: 9px 18px 10px;
+}
