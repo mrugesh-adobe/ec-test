@@ -3,9 +3,11 @@
 
 /* columns-featured block styles */
 
+/* Two-column layout is the default (matches Figma design) */
 .columns-featured > div {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: var(--columns-featured-column-align);
   gap: var(--columns-featured-gap);
 }
 
@@ -14,28 +16,20 @@
 }
 
 .columns-featured > div > div {
-  order: 1;
   color: var(--columns-featured-text-color);
 }
 
-@media (width >= 900px) {
-  .columns-featured > div {
-    align-items: var(--columns-featured-column-align);
-    flex-direction: row;
-    gap: var(--columns-featured-gap);
-  }
+.columns-featured > div > div:first-child {
+  flex: 1.2;
+}
 
-  .columns-featured > div > div {
-    order: unset;
-  }
+.columns-featured > div > div:last-child {
+  flex: 1;
+}
 
-  .columns-featured > div > div:first-child {
-    flex: 1.2;
-  }
-
-  .columns-featured > div > div:last-child {
-    flex: 1;
-  }
+/* Ensure columns don't overflow at narrow widths */
+.columns-featured > div > div {
+  min-width: 0;
 }
 
 /* ===== LEFT COLUMN: Featured Card ===== */
