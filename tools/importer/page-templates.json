@@ -7,6 +7,21 @@
       ],
       "description": "Smashing Magazine long-form blog article with default content only (headings, paragraphs, lists, images with captions, blockquotes, code blocks). No EDS blocks needed.",
       "blocks": []
+    },
+    {
+      "name": "allways-about-page",
+      "urls": [
+        "https://www.allwaysvip.com/about-us"
+      ],
+      "description": "ALLWAYS About Us page with YouTube video embed and company description text content.",
+      "blocks": [
+        {
+          "name": "embed",
+          "instances": [
+            ".video-embed-field-provider-youtube"
+          ]
+        }
+      ]
     }
   ]
 }
