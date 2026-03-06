@@ -22,6 +22,130 @@
           ]
         }
       ]
+    },
+    {
+      "name": "ppl-partner-offer",
+      "urls": [
+        "https://www.plazapremiumlounge.com/en-uk/discover/partner-offers/ppf-mcarthurglen"
+      ],
+      "description": "Plaza Premium Lounge partner offer landing page with hero banner, promotional columns, pricing comparison, how-it-works steps, and lounge location cards.",
+      "blocks": [
+        {
+          "name": "hero",
+          "instances": [
+            ".pageBanner-wrapper"
+          ]
+        },
+        {
+          "name": "columns",
+          "instances": [
+            ".promoContent > div > .flex.flex-col",
+            ".promoContent > div > .grid.grid-cols-1.lg\\:grid-cols-2",
+            ".promoContent > div > .grid.grid-cols-1.md\\:grid-cols-3"
+          ]
+        },
+        {
+          "name": "cards",
+          "instances": [
+            "#ritz-accordion-wrapper"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ppl-homepage",
+      "urls": [
+        "https://www.plazapremiumlounge.com/en-uk"
+      ],
+      "description": "Plaza Premium Lounge homepage with hero carousel, promotional banners, destination finder, service highlights, and brand partner sections.",
+      "blocks": [
+        {
+          "name": "hero-homepage",
+          "instances": [
+            ".master-slider"
+          ]
+        },
+        {
+          "name": "cards-deals",
+          "instances": [
+            ".card-wrapper.features"
+          ]
+        },
+        {
+          "name": "carousel-lounges",
+          "instances": [
+            ".owl-carousel.owl-highlights"
+          ]
+        },
+        {
+          "name": "columns-promo",
+          "instances": [
+            ".lounge-access"
+          ]
+        },
+        {
+          "name": "columns-awards",
+          "instances": [
+            ".location.section"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero Carousel with Booking Form",
+          "selector": ".topBannerWrapper",
+          "style": "dark",
+          "blocks": [
+            "hero-homepage"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Latest Deals & Partner Offers",
+          "selector": ".news.section",
+          "style": null,
+          "blocks": [
+            "cards-deals"
+          ],
+          "defaultContent": [
+            ".news.section h2.title"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "New & Reopened Lounges",
+          "selector": ".news.section",
+          "style": null,
+          "blocks": [
+            "carousel-lounges"
+          ],
+          "defaultContent": [
+            ".news.section h2.title:nth-of-type(2)"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Online Exclusive Offer",
+          "selector": ".lounges.section",
+          "style": "dark",
+          "blocks": [
+            "columns-promo"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5",
+          "name": "Awards & Recognition",
+          "selector": ".location.section",
+          "style": null,
+          "blocks": [
+            "columns-awards"
+          ],
+          "defaultContent": []
+        }
+      ]
     }
   ]
 }

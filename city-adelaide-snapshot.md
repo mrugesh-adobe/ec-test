@@ -1,0 +1,454 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - text: 
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - link "Plaza Premium Lounge Logo" [ref=e8] [cursor=pointer]:
+            - /url: /en-uk
+            - img "Plaza Premium Lounge Logo" [ref=e9]
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - list [ref=e13]:
+                - listitem [ref=e14]:
+                  - link "Your Destination Before Departure" [ref=e15] [cursor=pointer]:
+                    - /url: /en-US/campaign/yourdestinationbeforedeparture?utm_source=PPL&utm_medium=Homepage&utm_campaign=BrandCampaign&utm_content=menu_button
+                - listitem [ref=e16]:
+                  - link "Language and currency" [ref=e17] [cursor=pointer]:
+                    - /url: "#languagepopout"
+                - listitem [ref=e18]:
+                  - link "Login" [ref=e19] [cursor=pointer]:
+                    - /url: "#loginpopout"
+          - navigation [ref=e22]:
+            - list:
+              - listitem [ref=e23]:
+                - text: 
+                - link "Find Destinations" [ref=e24] [cursor=pointer]:
+                  - /url: "#"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Chinese Mainland
+                        - list:
+                          - listitem:
+                            - link "Beijing (PEK/PKX)":
+                              - /url: /en-uk/find/china-regions/mainland-china/beijing
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Cangzhou":
+                              - /url: /en-uk/find/china-regions/mainland-china/cangzhou
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Changchun (CGQ)":
+                              - /url: /en-uk/find/china-regions/mainland-china/changchun
+                          - listitem:
+                            - link "Changsha (CSX)":
+                              - /url: /en-uk/find/china-regions/mainland-china/changsha
+                          - listitem:
+                            - link "Chengdu (CTU/TFU)":
+                              - /url: /en-uk/find/china-regions/mainland-china/chengdu
+                          - listitem:
+                            - link "Chongqing (CKG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/chongqing
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Dali (DLU)":
+                              - /url: /en-uk/find/china-regions/mainland-china/dali
+                          - listitem:
+                            - link "Dalian (DLC)":
+                              - /url: /en-uk/find/china-regions/mainland-china/dalian
+                          - listitem:
+                            - link "Dehong (LUM)":
+                              - /url: /en-uk/find/china-regions/mainland-china/dehong
+                          - listitem:
+                            - link "Diqing (DIG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/diqing-dig
+                          - listitem:
+                            - link "Fuzhou (FOC)":
+                              - /url: /en-uk/find/china-regions/mainland-china/fuzhou-foc
+                          - listitem:
+                            - link "Guangzhou (CAN)":
+                              - /url: /en-uk/find/china-regions/mainland-china/guangzhou
+                          - listitem:
+                            - link "Guiyang (KWE)":
+                              - /url: /en-uk/find/china-regions/mainland-china/guiyang
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Haikou (HAK)":
+                              - /url: /en-uk/find/china-regions/mainland-china/haikou
+                          - listitem:
+                            - link "Hangzhou (HGH)":
+                              - /url: /en-uk/find/china-regions/mainland-china/hangzhou
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Harbin (HRB)":
+                              - /url: /en-uk/find/china-regions/mainland-china/harbin
+                          - listitem:
+                            - link "Hefei (HFE)":
+                              - /url: /en-uk/find/china-regions/mainland-china/hefei
+                          - listitem:
+                            - link "Jieyang (SWA)":
+                              - /url: /en-uk/find/china-regions/mainland-china/jieyang
+                          - listitem:
+                            - link "Jinan (TNA)":
+                              - /url: /en-uk/find/china-regions/mainland-china/jinan
+                          - listitem:
+                            - link "Jinghong (JHG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/jinghong
+                          - listitem:
+                            - link "Jinzhou (JNZ)":
+                              - /url: /en-uk/find/china-regions/mainland-china/jinzhou-jnz
+                          - listitem:
+                            - link "Kunming (KMG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/kunming
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Langfang":
+                              - /url: /en-uk/find/china-regions/mainland-china/langfang
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Lanzhou (LHW)":
+                              - /url: /en-uk/find/china-regions/mainland-china/lanzhou
+                          - listitem:
+                            - link "Leshan":
+                              - /url: /en-uk/find/china-regions/mainland-china/leshan
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Libo":
+                              - /url: /en-uk/find/china-regions/mainland-china/libo
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Lijiang (LJG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/lijiang
+                          - listitem:
+                            - link "Nanchang (KHN)":
+                              - /url: /en-uk/find/china-regions/mainland-china/nanchang
+                          - listitem:
+                            - link "Nanjing (NKG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/nanjing
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Nanning (NNG)":
+                              - /url: /en-uk/find/china-regions/mainland-china/nanning
+                          - listitem:
+                            - link "Nanyang (NNY)":
+                              - /url: /en-uk/find/china-regions/mainland-china/nanyang
+                          - listitem:
+                            - link "Ningbo (NGB)":
+                              - /url: /en-uk/find/china-regions/mainland-china/ningbo
+                          - listitem:
+                            - link "Qingdao (TAO)":
+                              - /url: /en-uk/find/china-regions/mainland-china/qingdao
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Quanzhou (JJN)":
+                              - /url: /en-uk/find/china-regions/mainland-china/quanzhou-jjn
+                          - listitem:
+                            - link "Sanya (SYX)":
+                              - /url: /en-uk/find/china-regions/mainland-china/sanya
+                          - listitem:
+                            - link "Shanghai (PVG/SHA)":
+                              - /url: /en-uk/find/china-regions/mainland-china/shanghai
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Shenyang (SHE)":
+                              - /url: /en-uk/find/china-regions/mainland-china/shenyang
+                          - listitem:
+                            - link "Shenzhen (SZX)":
+                              - /url: /en-uk/find/china-regions/mainland-china/shenzhen
+                          - listitem:
+                            - link "Suzhou (SZH)":
+                              - /url: /en-uk/find/china-regions/mainland-china/suzhou
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Taiyuan (TYN)":
+                              - /url: /en-uk/find/china-regions/mainland-china/taiyuan
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Tengchong (TCZ)":
+                              - /url: /en-uk/find/china-regions/mainland-china/tengchong
+                          - listitem:
+                            - link "Tianjin":
+                              - /url: /en-uk/find/china-regions/mainland-china/tianjin
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Urumqi (URC)":
+                              - /url: /en-uk/find/china-regions/mainland-china/urumqi
+                          - listitem:
+                            - link "Wuhan (WUH)":
+                              - /url: /en-uk/find/china-regions/mainland-china/wuhan
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Wuxi (WUX)":
+                              - /url: /en-uk/find/china-regions/mainland-china/wuxi
+                          - listitem:
+                            - link "Xi'an (XIY)":
+                              - /url: /en-uk/find/china-regions/mainland-china/xian
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Zhangjiakou":
+                              - /url: /en-uk/find/china-regions/mainland-china/zhangjiakou
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Zaozhuang":
+                              - /url: /en-uk/find/china-regions/mainland-china/zaozhuang
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Zhaotong (ZAT)":
+                              - /url: /en-uk/find/china-regions/mainland-china/zhaotong-zat
+                          - listitem:
+                            - link "Zhengzhou (CGO)":
+                              - /url: /en-uk/find/china-regions/mainland-china/zhengzhou
+                          - listitem:
+                            - link "Zibo":
+                              - /url: /en-uk/find/china-regions/mainland-china/zibo
+                            - generic:
+                              - generic:
+                                - img
+                          - listitem:
+                            - link "Zhuhai (ZUH)":
+                              - /url: /en-uk/find/china-regions/mainland-china/zhuhai
+                      - generic:
+                        - generic: Hong Kong SAR
+                        - list:
+                          - listitem:
+                            - link "Hong Kong (HKG)":
+                              - /url: /en-uk/find/china-regions/hong-kong/hong-kong
+                      - generic:
+                        - generic: Macau SAR
+                        - list:
+                          - listitem:
+                            - link "Macau (MFM)":
+                              - /url: /en-uk/find/china-regions/macau/macau
+                      - generic:
+                        - generic: Taiwan
+                        - list:
+                          - listitem:
+                            - link "Taipei (TPE/TSA)":
+                              - /url: /en-uk/find/china-regions/taiwan/taipei
+                    - generic:
+                      - img
+                      - generic: Railway Lounge
+              - listitem [ref=e25]:
+                - link "Lounge Pass" [ref=e26] [cursor=pointer]:
+                  - /url: /en-uk/ppl-pass-experience
+              - listitem [ref=e27]:
+                - text: 
+                - link "Discover More" [ref=e28] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e29]:
+                - text: 
+                - link "Book Now" [ref=e30] [cursor=pointer]:
+                  - /url: "#"
+                - option "Select a Service" [selected]
+                - option "1" [selected]
+                - option "2"
+                - option "3"
+                - option "4"
+                - option "5"
+                - option "6"
+                - option "7"
+                - option "8"
+                - option "9"
+                - option "0" [selected]
+                - option "1"
+                - option "2"
+                - option "3"
+                - option "4"
+                - option "5"
+                - option "6"
+              - text: 
+      - main [ref=e31]:
+        - generic [ref=e34]:
+          - list [ref=e36]:
+            - listitem [ref=e37]:
+              - link "Home" [ref=e38] [cursor=pointer]:
+                - /url: /Home
+            - listitem [ref=e39]: "|"
+          - heading "404" [level=2] [ref=e40]
+          - generic [ref=e42]:
+            - heading "Sorry..." [level=1] [ref=e43]
+            - heading "It's not you. It's us." [level=1] [ref=e44]
+            - paragraph [ref=e46]: It seems the page you're looking for doesn't exist, has been moved or is currently undergoing maintenance.
+            - paragraph [ref=e47]:
+              - text: You will be redirected to our homepage in a few moments, or you can click
+              - link "here" [ref=e48] [cursor=pointer]:
+                - /url: /Home
+              - text: to get there sooner.
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: "Online payment options:"
+              - listitem [ref=e55]:
+                - img [ref=e56]
+              - listitem [ref=e57]:
+                - img [ref=e58]
+              - listitem [ref=e59]:
+                - img [ref=e60]
+              - listitem [ref=e61]:
+                - img [ref=e62]
+              - listitem [ref=e63]:
+                - img [ref=e64]
+              - listitem [ref=e65]:
+                - img [ref=e66]
+            - heading "Sign up to stay in touch" [level=3] [ref=e67]
+            - generic [ref=e69]:
+              - generic [ref=e70]:
+                - generic [ref=e71]: First name
+                - textbox [ref=e72]: First name
+              - generic [ref=e73]:
+                - generic [ref=e74]: Last name
+                - textbox [ref=e75]: Last name
+              - generic [ref=e76]:
+                - generic [ref=e77]: Email Address
+                - textbox [ref=e78]: Email
+              - link "Submit" [ref=e79] [cursor=pointer]:
+                - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("p$lt$WebPartZone9$ZFooterNewsletter$NetcoreNewsletter$llb_Submit", "", true, "newsletter", "", false, true))
+            - generic [ref=e80]:
+              - text: By submitting your details, you agree to our
+              - link "Privacy Policy" [ref=e81] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - list [ref=e86]:
+                - listitem [ref=e87]:
+                  - link "" [ref=e88] [cursor=pointer]:
+                    - /url: https://www.facebook.com/plazapremiumlounge
+                    - generic [ref=e89]: 
+                - listitem [ref=e90]:
+                  - link "" [ref=e91] [cursor=pointer]:
+                    - /url: https://www.instagram.com/plazapremiumlounge
+                    - generic [ref=e92]: 
+                - listitem [ref=e93]:
+                  - link "" [ref=e94] [cursor=pointer]:
+                    - /url: /PlazaPremiumLounge/media/PPLMedia/Pages/Home/PPG_WeChat_640x640.JPG
+                    - generic [ref=e95]: 
+              - generic [ref=e98]:
+                - link [ref=e100] [cursor=pointer]:
+                  - /url: http://www.plazapremiumgroup.com/
+                  - img [ref=e101]
+                - generic [ref=e102]:
+                  - generic [ref=e103]:
+                    - generic [ref=e104]:
+                      - generic [ref=e105]: Lounge
+                      - list [ref=e106]:
+                        - listitem [ref=e107]:
+                          - link [ref=e108] [cursor=pointer]:
+                            - /url: https://www.plazapremiumlounge.com/
+                            - img [ref=e109]
+                        - listitem [ref=e110]:
+                          - link [ref=e111] [cursor=pointer]:
+                            - /url: https://www.plazapremiumfirst.com/
+                        - listitem [ref=e112]:
+                          - img [ref=e113]
+                    - generic [ref=e114]:
+                      - generic [ref=e115]: Concierge
+                      - list [ref=e116]:
+                        - listitem [ref=e117]:
+                          - link [ref=e118] [cursor=pointer]:
+                            - /url: https://www.allwaysvip.com/
+                            - img [ref=e119]
+                        - listitem [ref=e120]:
+                          - img [ref=e121]
+                  - generic [ref=e123]:
+                    - generic [ref=e124]:
+                      - generic [ref=e125]: Hotel
+                      - list [ref=e126]:
+                        - listitem [ref=e127]:
+                          - link [ref=e128] [cursor=pointer]:
+                            - /url: https://www.myaerotel.com/
+                        - listitem [ref=e129]:
+                          - img [ref=e130]
+                    - generic [ref=e131]:
+                      - generic [ref=e132]: F&B
+                      - list [ref=e133]:
+                        - listitem [ref=e134]:
+                          - link [ref=e135] [cursor=pointer]:
+                            - /url: https://www.intervalsbar.com/
+                        - listitem [ref=e136]:
+                          - link [ref=e137] [cursor=pointer]:
+                            - /url: https://www.airport-dining.com/
+                            - img [ref=e138]
+                    - generic [ref=e139]:
+                      - generic [ref=e140]: Reward & Membership Programme
+                      - list [ref=e141]:
+                        - listitem [ref=e142]:
+                          - link [ref=e143] [cursor=pointer]:
+                            - /url: https://www.mysmarttraveller.com/h/home
+                            - img [ref=e144]
+            - separator [ref=e145]
+            - generic [ref=e147]:
+              - text: © Copyright 2026 Plaza Premium Lounge Management Limited. All Rights Reserved. Please read our
+              - link "Terms of Use" [ref=e148] [cursor=pointer]:
+                - /url: /discover/terms-of-use/
+              - text: "&"
+              - link "Privacy Policy" [ref=e149] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - paragraph
+            - paragraph [ref=e155]:
+              - text: In order to enable certain services/features and improve your website experience, our website uses tools such as cookies, which collect data on how you interact with our website.
+              - text: By continuing to use our website, you agree to our use of such cookies. You can find more information on our data usage and cookie policy
+              - link "here." [ref=e156] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+                - strong [ref=e157]: here.
+            - paragraph
+          - button "I Understand" [ref=e158] [cursor=pointer]
+        - text: 
+    - text:   
+  - iframe [ref=e159]:
+    - generic [ref=f62e2]:
+      - generic [ref=f62e3] [cursor=pointer]: X
+      - generic [ref=f62e6]:
+        - paragraph [ref=f62e9]:
+          - strong [ref=f62e10]:
+            - generic [ref=f62e12]: Join Smart Traveller and unlock up to 20% off your booking.
+        - link "Know More" [ref=f62e15] [cursor=pointer]:
+          - /url: https://www.plazapremiumlounge.com/en-uk/discover/partner-offers/smart-traveller
+          - generic [ref=f62e16]: Know More
+  - iframe [ref=e160]:
+    - button "Chat" [ref=f63e4] [cursor=pointer]:
+      - generic [ref=f63e5]:
+        - img [ref=f63e6]
+        - text: Chat

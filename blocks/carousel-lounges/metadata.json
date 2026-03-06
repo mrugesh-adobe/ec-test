@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-lounges",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-03-06T07:13:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.plazapremiumlounge.com/en-uk",
+    "originPage": "Plaza Premium Lounge homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "lounge-highlights",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + title + date + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "lounge highlight carousels",
+      "location showcase sliders",
+      "featured destination carousels"
+    ],
+    "notSuitableFor": [
+      "hero banner carousels",
+      "testimonial carousels",
+      "image-only galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-uk"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-06T07:13:00.000Z"
+  }
+}

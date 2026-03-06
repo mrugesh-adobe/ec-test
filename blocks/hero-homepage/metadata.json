@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-homepage",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-03-06T07:13:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.plazapremiumlounge.com/en-uk",
+    "originPage": "Plaza Premium Lounge homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "homepage-hero",
+    "imagePattern": "fullwidth-background"
+  },
+  "contentPattern": {
+    "structure": "heading + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero banners",
+      "landing pages with full-width background images",
+      "campaign pages with single CTA"
+    ],
+    "notSuitableFor": [
+      "text-only hero sections",
+      "hero sections with multiple CTAs",
+      "product detail pages"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-uk"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-06T07:13:00.000Z"
+  }
+}
