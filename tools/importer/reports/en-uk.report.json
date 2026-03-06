@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.plazapremiumlounge.com/en-uk",
+  "path": "en-uk",
+  "timestamp": "2026-03-06T07:30:24.571Z",
+  "title": "Making Travel Better | Award Winning Airport Lounge | Plaza Premium Lounge | Plaza Premium Lounge",
+  "template": "ppl-homepage",
+  "blocks": [
+    "hero-homepage",
+    "cards-deals",
+    "carousel-lounges",
+    "columns-promo",
+    "columns-awards"
+  ]
+}

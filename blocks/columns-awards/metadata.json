@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-awards",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-06T07:13:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.plazapremiumlounge.com/en-uk",
+    "originPage": "Plaza Premium Lounge homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "awards-recognition",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + image",
+    "buttonCount": 0,
+    "imageCount": 2
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "award badge displays",
+      "certification showcases",
+      "side-by-side image comparisons"
+    ],
+    "notSuitableFor": [
+      "text-heavy column layouts",
+      "feature columns with CTAs",
+      "multi-row content columns"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-uk"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-06T07:13:00.000Z"
+  }
+}

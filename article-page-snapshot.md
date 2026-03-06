@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - text: 
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - link "Plaza Premium Lounge Logo" [ref=e11] [cursor=pointer]:
+            - /url: /en-uk
+            - img "Plaza Premium Lounge Logo" [ref=e12]
+          - list [ref=e13]:
+            - listitem:
+              - list [ref=e15]:
+                - listitem [ref=e16]:
+                  - link "Your Destination Before Departure" [ref=e17] [cursor=pointer]:
+                    - /url: /en-US/campaign/yourdestinationbeforedeparture?utm_source=PPL&utm_medium=Homepage&utm_campaign=BrandCampaign&utm_content=menu_button
+                - listitem [ref=e18]:
+                  - link "Language and currency" [ref=e19] [cursor=pointer]:
+                    - /url: "#languagepopout"
+                - listitem [ref=e20]:
+                  - link "Login" [ref=e21] [cursor=pointer]:
+                    - /url: "#loginpopout"
+          - generic [ref=e23]:     
+      - main [ref=e24]:
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - link "Home" [ref=e31] [cursor=pointer]:
+                  - /url: /Home
+              - listitem [ref=e32]:
+                - text: "|"
+                - link "News" [ref=e33] [cursor=pointer]:
+                  - /url: /en-uk/discover/news
+            - heading "Plaza Premium Group opens new lounge in partnership with marhaba at Queen Alia International Airport in Amman, Jordan, through agreement with airport international group" [level=2] [ref=e34]
+            - generic [ref=e36]: Published on 11 Aug 2023
+            - generic [ref=e37]:
+              - strong [ref=e38]
+              - emphasis [ref=e40]: marhaba Plaza Premium Lounge in Jordan, Amman
+              - paragraph [ref=e41]: "AMMAN, 1 AUG 2023: Plaza Premium Group - a pioneer industry leader and the world’s largest provider of airport hospitality services - has partnered with marhaba and entered into an agreement with Airport International Group - the Jordanian company responsible for managing the rehabilitation, expansion and operation of Queen Alia International Airport (QAIA) - to introduce a new lounge at the Amman-based airport. The marhaba Plaza Premium Lounge delivers unparalleled levels of indulgence for passengers, alongside world-class services and amenities."
+              - paragraph [ref=e42]: Covering a spacious area of 475 sqm, the lounge has a capacity of 130 seats and boasts a meticulously crafted interior inspired by the landscape of Amman and Jordan’s World Heritage Site; Petra. It is conveniently located on the Mezzanine Level, above the duty free shops at the airport. From plush seating areas to stylish workstations, every corner of the lounge has been thoughtfully designed to offer a premium travel experience and ultimate comfort for guests.
+              - paragraph [ref=e43]:
+                - generic [ref=e44]: “
+                - generic [ref=e45]:
+                  - text: On the 10
+                  - superscript [ref=e46]: th
+                  - text: anniversary of QAIA's Terminal Building, we are delighted to witness the introduction of a new luxurious and welcoming lounge. As the operator of an award-winning airport in customer service excellence, we always strive to provide a positive travel experience reflective of Jordan’s renowned hospitality, our intrinsic values and our brand promise of shaping an airport experience that feels like home. The unveiling of the marhaba Plaza Premium Lounge is yet another example of us collectively prioritising the satisfaction and wellbeing of the passengers of Jordan's prime gateway to the world,”
+                - text: commented Nicolas Claude, CEO of Airport International Group.
+              - paragraph [ref=e47]: The marhaba Plaza Premium Lounge offers a range of cutting-edge business amenities, including high-speed Wi-Fi, private workstations and top-notch media facilities, ensuring that passengers always stay connected. For those looking to refresh themselves before their flight, showers and in-lounge wellness facilities are also available.
+              - paragraph [ref=e48]: Reflecting rich Arab culture, the local team has taken culinary experiences to new levels with an exquisite selection of halal and oriental food and beverage selections, as well as delectable dishes from local and international cuisines.
+              - paragraph [ref=e49]: The launch of the new lounge underscores the strategic expansion plan of Plaza Premium Group to expand its global network in key travel destinations, and is the latest lounge to join its global network of airport hospitality services in over 250 locations across 70 international airports in 30 countries. The new lounge in Amman will bolster the company’s expansive portfolio of independent airport lounges, hotels and F&B outlets in the Middle East.
+              - paragraph [ref=e50]: “Opening the co-branded lounge between marhaba and Plaza Premium at QAIA represents a significant milestone in our regional expansion plas, we believe we can drive our mission to make travel better by continued alliances with top players within the aviation industry and airport hospitality landscape. We will continue strengthening our presence in the region through the launch of new and innovative experiences such as exclusive lounges and F&B projects in the biggest and busiest airports across the region, providing our loyal guests, partners and members with easy and enhanced access to premium airport services,” said Okan Kufeci, Senior Vice President of Europe, Middle East and Africa at Plaza Premium Group.
+              - paragraph [ref=e51]: "Shahab Al Awadhi, Head of marhaba Global, said: “We are delighted to partner with Plaza Premium Group to provide our trademark Arabian hospitality to passengers in Amman. This partnership demonstrates marhaba’s continued expansion and brings together two leading organisations with a shared goal of offering travellers more value and elevating the airport experience. We will work closely together to consistently provide passengers with unparalleled comfort, convenience and quality throughout their journey.”"
+              - paragraph [ref=e52]: The marhaba Plaza Premium Lounge is open daily for all passengers, regardless of airline or travel class. Guests can enjoy an opening offer of up to 20% off the usual lounge access and a further 20% discount when signing up for the Smart Traveller Loyalty Rewards programme. All services are available for reservation on the Plaza Premium Lounge official website. The lounge is also accessible to eligible passengers with American Express, Dragon Pass and other authorised credit cards and active lounge management programmes.
+              - generic [ref=e53]: "-END-"
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - img "AMM" [ref=e56]
+                  - paragraph [ref=e57]: Spacious and comfortable lounge, featuring plush chairs and tables in a stylish setting inspired by Amman landscape.
+                - generic [ref=e58]:
+                  - img "AMM" [ref=e59]
+                  - paragraph [ref=e60]: Bar and dining area provides an ideal spot for guests to unwind and relax before the flight.
+          - generic [ref=e62]:
+            - heading "Latest Releases" [level=3] [ref=e64]
+            - generic [ref=e67]:
+              - link "DreamFolks and Plaza Premium Group announce strategic collaboration to expand global lounge network and enhance travel experience for Indian passengers Published on 18 Jul 2023" [ref=e68] [cursor=pointer]:
+                - /url: /en-uk/discover/news/july-2023/dreamfolks
+                - generic [ref=e71]:
+                  - heading "DreamFolks and Plaza Premium Group announce strategic collaboration to expand global lounge network and enhance travel experience for Indian passengers" [level=4] [ref=e72]
+                  - generic [ref=e73]: Published on 18 Jul 2023
+              - link "Plaza Premium Group and Letswork announce global partnership Published on 04 Jul 2023" [ref=e74] [cursor=pointer]:
+                - /url: /en-uk/discover/news/july-2023/letswork-global-partnership
+                - generic [ref=e77]:
+                  - heading "Plaza Premium Group and Letswork announce global partnership" [level=4] [ref=e78]
+                  - generic [ref=e79]: Published on 04 Jul 2023
+              - link "Plaza Premium Group launches new range of spring break promotions to enhance every traveller’s journey Published on 11 Mar 2022" [ref=e80] [cursor=pointer]:
+                - /url: /en-uk/discover/news/march-2022/spring-break-promotions
+                - generic [ref=e83]:
+                  - heading "Plaza Premium Group launches new range of spring break promotions to enhance every traveller’s journey" [level=4] [ref=e84]
+                  - generic [ref=e85]: Published on 11 Mar 2022
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - list [ref=e89]:
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: "Online payment options:"
+              - listitem [ref=e92]:
+                - img [ref=e93]
+              - listitem [ref=e94]:
+                - img [ref=e95]
+              - listitem [ref=e96]:
+                - img [ref=e97]
+              - listitem [ref=e98]:
+                - img [ref=e99]
+              - listitem [ref=e100]:
+                - img [ref=e101]
+              - listitem [ref=e102]:
+                - img [ref=e103]
+            - heading "Sign up to stay in touch" [level=3] [ref=e104]
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - generic [ref=e108]: First name
+                - textbox [ref=e109]: First name
+              - generic [ref=e110]:
+                - generic [ref=e111]: Last name
+                - textbox [ref=e112]: Last name
+              - generic [ref=e113]:
+                - generic [ref=e114]: Email Address
+                - textbox [ref=e115]: Email
+              - link "Submit" [ref=e116] [cursor=pointer]:
+                - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("p$lt$WebPartZone9$ZFooterNewsletter$NetcoreNewsletter$llb_Submit", "", true, "newsletter", "", false, true))
+            - generic [ref=e117]:
+              - text: By submitting your details, you agree to our
+              - link "Privacy Policy" [ref=e118] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - list [ref=e123]:
+                - listitem [ref=e124]:
+                  - link "" [ref=e125] [cursor=pointer]:
+                    - /url: https://www.facebook.com/plazapremiumlounge
+                    - generic [ref=e126]: 
+                - listitem [ref=e127]:
+                  - link "" [ref=e128] [cursor=pointer]:
+                    - /url: https://www.instagram.com/plazapremiumlounge
+                    - generic [ref=e129]: 
+                - listitem [ref=e130]:
+                  - link "" [ref=e131] [cursor=pointer]:
+                    - /url: /PlazaPremiumLounge/media/PPLMedia/Pages/Home/PPG_WeChat_640x640.JPG
+                    - generic [ref=e132]: 
+              - generic [ref=e135]:
+                - link [ref=e137] [cursor=pointer]:
+                  - /url: http://www.plazapremiumgroup.com/
+                  - img [ref=e138]
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - generic [ref=e141]:
+                      - generic [ref=e142]: Lounge
+                      - list [ref=e143]:
+                        - listitem [ref=e144]:
+                          - link [ref=e145] [cursor=pointer]:
+                            - /url: https://www.plazapremiumlounge.com/
+                            - img [ref=e146]
+                        - listitem [ref=e147]
+                        - listitem [ref=e148]:
+                          - img [ref=e149]
+                    - generic [ref=e151]:
+                      - generic [ref=e152]: Concierge
+                      - list [ref=e153]:
+                        - listitem [ref=e154]:
+                          - link [ref=e155] [cursor=pointer]:
+                            - /url: https://www.allwaysvip.com/
+                            - img [ref=e156]
+                        - listitem [ref=e157]:
+                          - img [ref=e158]
+                    - generic [ref=e160]:
+                      - generic [ref=e161]: Hotel
+                      - list [ref=e162]:
+                        - listitem [ref=e163]:
+                          - link [ref=e164] [cursor=pointer]:
+                            - /url: https://www.myaerotel.com/
+                        - listitem [ref=e165]:
+                          - img [ref=e166]
+                  - generic [ref=e170]:
+                    - generic [ref=e171]:
+                      - generic [ref=e172]: F&B
+                      - list [ref=e173]:
+                        - listitem [ref=e174]:
+                          - link [ref=e175] [cursor=pointer]:
+                            - /url: https://www.intervalsbar.com/
+                        - listitem [ref=e176]:
+                          - link [ref=e177] [cursor=pointer]:
+                            - /url: https://www.airport-dining.com/
+                            - img [ref=e178]
+                    - generic [ref=e181]:
+                      - generic [ref=e182]: Reward & Membership Programme
+                      - list [ref=e183]:
+                        - listitem [ref=e184]:
+                          - link [ref=e185] [cursor=pointer]:
+                            - /url: https://www.mysmarttraveller.com/h/home
+                            - img [ref=e186]
+            - separator [ref=e187]
+            - generic [ref=e189]:
+              - text: © Copyright 2026 Plaza Premium Lounge Management Limited. All Rights Reserved. Please read our
+              - link "Terms of Use" [ref=e190] [cursor=pointer]:
+                - /url: /discover/terms-of-use/
+              - text: "&"
+              - link "Privacy Policy" [ref=e191] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+        - text: 
+    - text:   
+  - iframe [ref=e192]:
+    - button "Chat" [ref=f55e4] [cursor=pointer]:
+      - generic [ref=f55e5]:
+        - img [ref=f55e6]
+        - text: Chat

@@ -1,0 +1,614 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - text: 
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - link "Plaza Premium Lounge Logo" [ref=e11] [cursor=pointer]:
+            - /url: /en-uk
+            - img "Plaza Premium Lounge Logo" [ref=e12]
+          - list [ref=e13]:
+            - listitem:
+              - list [ref=e15]:
+                - listitem [ref=e16]:
+                  - link "Your Destination Before Departure" [ref=e17] [cursor=pointer]:
+                    - /url: /en-US/campaign/yourdestinationbeforedeparture?utm_source=PPL&utm_medium=Homepage&utm_campaign=BrandCampaign&utm_content=menu_button
+                - listitem [ref=e18]:
+                  - link "Language and currency" [ref=e19] [cursor=pointer]:
+                    - /url: "#languagepopout"
+                - listitem [ref=e20]:
+                  - link "Login" [ref=e21] [cursor=pointer]:
+                    - /url: "#loginpopout"
+          - generic [ref=e23]:     
+      - main [ref=e24]:
+        - generic [ref=e26]:
+          - text:                                            
+          - generic [ref=e27]:
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - link "Home" [ref=e31] [cursor=pointer]:
+                  - /url: /Home
+              - listitem [ref=e32]: "|News"
+            - generic [ref=e34]:
+              - heading "News " [level=3] [ref=e36]:
+                - text: News
+                - generic [ref=e38]: 
+              - text:                                            
+            - generic [ref=e39]:
+              - generic [ref=e43]:
+                - link "Plaza Premium Group opens new lounge in partnership with marhaba at Queen Alia International Airport in Amman, Jordan, through agreement with airport international group" [ref=e44] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/august-2023/marhaba-amm
+                  - heading "Plaza Premium Group opens new lounge in partnership with marhaba at Queen Alia International Airport in Amman, Jordan, through agreement with airport international group" [level=4] [ref=e45]
+                - paragraph [ref=e46]: Plaza Premium Group - a pioneer industry leader and the world’s largest provider of airport hospitality services - has partnered with marhaba and entered into an agreement with Airport International Group - the Jordanian company responsible for managing the rehabilitation, expansion and operation of Queen Alia International Airport (QAIA) - to introduce a new lounge at the Amman-based airport.
+                - separator [ref=e47]
+                - generic [ref=e49]: Published on 11 Aug 2023
+              - generic [ref=e53]:
+                - link "DreamFolks and Plaza Premium Group announce strategic collaboration to expand global lounge network and enhance travel experience for Indian passengers" [ref=e54] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2023/dreamfolks
+                  - heading "DreamFolks and Plaza Premium Group announce strategic collaboration to expand global lounge network and enhance travel experience for Indian passengers" [level=4] [ref=e55]
+                - paragraph [ref=e56]: DreamFolks and Plaza Premium Group announce strategic collaboration to expand global lounge network and enhance travel experience for Indian passengers
+                - separator [ref=e57]
+                - generic [ref=e59]: Published on 18 Jul 2023
+              - generic [ref=e63]:
+                - link "Plaza Premium Group and Letswork announce global partnership" [ref=e64] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2023/letswork-global-partnership
+                  - heading "Plaza Premium Group and Letswork announce global partnership" [level=4] [ref=e65]
+                - paragraph [ref=e66]: Plaza Premium Group, the pioneers of global airport hospitality services, announces a new partnership with Letswork, the on-demand global workspace platform. As part of this partnership, all Letswork members will now have access to Plaza Premium Lounges globally through their Letswork membership.
+                - separator [ref=e67]
+                - generic [ref=e69]: Published on 04 Jul 2023
+              - generic [ref=e73]:
+                - link "Plaza Premium Group launches new range of spring break promotions to enhance every traveller’s journey" [ref=e74] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2022/spring-break-promotions
+                  - heading "Plaza Premium Group launches new range of spring break promotions to enhance every traveller’s journey" [level=4] [ref=e75]
+                - paragraph [ref=e76]: Putting a spring in the step of global travellers, the pioneer and industry leader in innovating global airport hospitality services, Plaza Premium Group, has launched a number of promotional offers to support those flying during the spring break period. The offers, which are available now until 17 April 2022, come just in time for the seasonal travel surge, with many people globally expected to travel during March and April.
+                - separator [ref=e77]
+                - generic [ref=e79]: Published on 11 Mar 2022
+              - generic [ref=e83]:
+                - link "Plaza Premium Lounge Announces North American Lounge Pass and Global Spring Break Travel Promotions" [ref=e84] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2022/north-american-lounge-pass-global-spring-break
+                  - heading "Plaza Premium Lounge Announces North American Lounge Pass and Global Spring Break Travel Promotions" [level=4] [ref=e85]
+                - paragraph [ref=e86]: Following its expansion at Toronto Pearson International Airport (YYZ) with the launch of Landmark Lounge in December 2021 and with new strategic US partners last year, the industry leader in innovative airport hospitality continues its mission to “Make Travel Better” with two new offers to meet traveler demand this March.
+                - separator [ref=e87]
+                - generic [ref=e89]: Published on 02 Mar 2022
+              - generic [ref=e93]:
+                - link "Plaza Premium Group Grows European Presence Second Plaza Premium Lounge Opens at Budapest Liszt Ferenc International Airport" [ref=e94] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2022/plaza-premium-group-grows-european-presence
+                  - heading "Plaza Premium Group Grows European Presence Second Plaza Premium Lounge Opens at Budapest Liszt Ferenc International Airport" [level=4] [ref=e95]
+                - paragraph [ref=e96]: "Plaza Premium Lounge has opened its second Plaza Premium Lounge in Budapest Liszt Ferenc International Airport (IATA Code: BUD) - Hungary’s largest International Airport. The opening marks the second lounge launch in a month; Plaza Premium Group debuted its first Lounge on 1st February and the second Plaza Premium Lounge follows on 1st March."
+                - separator [ref=e97]
+                - generic [ref=e99]: Published on 01 Mar 2022
+              - generic [ref=e103]:
+                - link "Plaza Premium Lounge Expands in Europe with New Addition at Budapest Liszt Ferenc International Airport in Hungary" [ref=e104] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2023/plaza-premium-lounge-budapest-opening
+                  - heading "Plaza Premium Lounge Expands in Europe with New Addition at Budapest Liszt Ferenc International Airport in Hungary" [level=4] [ref=e105]
+                - paragraph [ref=e106]: Plaza Premium Lounge is pleased to unveil its Skytrax-winning lounge services at Budapest Liszt Ferenc International Airport in Hungary on February 1. This exciting opening will see a strategic expansion to the Group’s presence in Europe within its global network of over 250 locations across 70 international airports in 30 countries.
+                - separator [ref=e107]
+                - generic [ref=e109]: Published on 04 Feb 2022
+              - generic [ref=e113]:
+                - link "Plaza Premium Group Launches Virtual Talks Programme - Come Fly With Us" [ref=e114] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/january-2022-1/come-fly-with-us-virtual-talk-series
+                  - heading "Plaza Premium Group Launches Virtual Talks Programme - Come Fly With Us" [level=4] [ref=e115]
+                - paragraph [ref=e116]: Plaza Premium Group, is sharing their unique insights with a global audience moderated by the Editor-in-Chief of Travel + Leisure Southeast Asia, Jeninne Lee-St. John. The virtual talks programme is a three-part series that invites leaders from across the travel ecosystem to share their experiences and discuss the industry alongside some of Plaza Premium Group’s highest profile Directors, as well as CEO and Founder Mr. Song Hoi-see.
+                - separator [ref=e117]
+                - generic [ref=e119]: Published on 17 Jan 2022
+              - generic [ref=e123]:
+                - link "Plaza Premium Lounge unveils two new lounges at Toronto Pearson International Airport in time for holiday travel rush" [ref=e124] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/december-2021/mega-lounge-concept-lounge
+                  - heading "Plaza Premium Lounge unveils two new lounges at Toronto Pearson International Airport in time for holiday travel rush" [level=4] [ref=e125]
+                - paragraph [ref=e126]: Award-winning independent airport lounge network, Plaza Premium Lounge, is pleased to announce its expansion at Toronto Pearson International Airport (YYZ) with the launch of Landmark Lounge, the largest independently operated lounge in North America, and the opening of Concept Lounge, a new lounge that will serve Terminal 1 travellers while the existing post-security Plaza Premium Lounge undergoes updates.
+                - separator [ref=e127]
+                - generic [ref=e129]: Published on 21 Dec 2021
+              - generic [ref=e133]:
+                - link "Wishes do come true with ‘Lounge, Travel, Celebrate’ at Plaza Premium Lounge this festive season" [ref=e134] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2021/lounge-travel-celebrate
+                  - heading "Wishes do come true with ‘Lounge, Travel, Celebrate’ at Plaza Premium Lounge this festive season" [level=4] [ref=e135]
+                - paragraph [ref=e136]: Award-winning independent airport lounge network, Plaza Premium Lounge, is making Christmas wishes come true this festive season through their ‘Lounge, Travel, Celebrate’ campaign that will elevate experiences for those traveling during the holidays and those looking forward to a trip next year.
+                - separator [ref=e137]
+                - generic [ref=e139]: Published on 25 Nov 2021
+              - generic [ref=e143]:
+                - link "Plaza Premium Lounges Receive The Highest 5-Star COVID-19 Lounge Safety Ratings" [ref=e144] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2021/skytrax-highest-covid19-lounge-safety-rating-1
+                  - heading "Plaza Premium Lounges Receive The Highest 5-Star COVID-19 Lounge Safety Ratings" [level=4] [ref=e145]
+                - paragraph [ref=e146]: Plaza Premium Lounges in London and Rome have been awarded with the highest 5-Star COVID-19 Airline Lounge Safety Rating, by international air transport rating agency Skytrax. The Plaza Premium lounges at Terminal 2, London Heathrow Airport and Terminal 3, Rome Fiumicino Airport have both received the 5-Star COVID-19 Airline Lounge Safety Rating in recognition of the excellent and consistent measures in place to reduce the risks associated with the spread of COVID-19.
+                - separator [ref=e147]
+                - generic [ref=e149]: Published on 02 Nov 2021
+              - generic [ref=e153]:
+                - link "Plaza Premium Lounge Named ‘Skytrax World’s Best Independent Airport Lounge’ for Fifth Consecutive Year" [ref=e154] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2021/skytrax-worlds-best-independent-airport-lounge
+                  - heading "Plaza Premium Lounge Named ‘Skytrax World’s Best Independent Airport Lounge’ for Fifth Consecutive Year" [level=4] [ref=e155]
+                - paragraph [ref=e156]: Plaza Premium Lounge at London Heathrow Airport T2 has again been voted “World’s Best Independent Airport Lounge” for the fifth consecutive year at the recent Skytrax World Airline Awards, the industry’s most prestigious recognition. Meanwhile, Plaza Premium Lounge and American Express’s Centurion Lounge, operated by Plaza Premium Lounge, both located in Hong Kong have also placed amongst the Top 10 rankings.
+                - separator [ref=e157]
+                - generic [ref=e159]: Published on 15 Oct 2021
+              - generic [ref=e163]:
+                - link "Plaza Premium Group Unveils Lounge Services in London Gatwick Airport" [ref=e164] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2021/https-www-plazapremiumlounge-com-en-uk-discove-1
+                  - heading "Plaza Premium Group Unveils Lounge Services in London Gatwick Airport" [level=4] [ref=e165]
+                - paragraph [ref=e166]: Plaza Premium Group, the pioneers in global airport hospitality, is pleased to announce the opening of Plaza Premium Lounge at London Gatwick Airport. This exciting opening reinforces the Group’s strategic presence in the United Kingdom and increases its foothold across the rest of Europe to six lounges with further openings scheduled for late 2021.
+                - separator [ref=e167]
+                - generic [ref=e169]: Published on 07 Oct 2021
+              - generic [ref=e173]:
+                - link "Plaza Premium Group Continues High-Speed Railway Station Lounge Expansion" [ref=e174] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/august-2021/high-speed-railway-station-lounge-expansion
+                  - heading "Plaza Premium Group Continues High-Speed Railway Station Lounge Expansion" [level=4] [ref=e175]
+                - paragraph [ref=e176]: Following the successful launch of ‘DragonPass x Plaza Premium Lounge’ at the Changsha High-Speed Railway Station in January 2021, Plaza Premium Group - the world’s largest award-winning independent airport lounge network - is pleased to announce the opening of two additional high speed railway station lounge operations in key transit hubs in China.
+                - separator [ref=e177]
+                - generic [ref=e179]: Published on 16 Aug 2021
+              - generic [ref=e183]:
+                - link "The first ‘Air France Lounge by Plaza Premium Group’ opens in Montreal" [ref=e184] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/august-2021/air-france-lounge-opens-in-montreal
+                  - heading "The first ‘Air France Lounge by Plaza Premium Group’ opens in Montreal" [level=4] [ref=e185]
+                - paragraph [ref=e186]: Plaza Premium Group and Air France joined hands to open a fully redesigned lounge for the airline at Montréal’s Pierre Elliott Trudeau International Airport. The renewed, elegant and welcoming lounge experience is now available for Air France’s Business and Flying Blue Elite Plus customers as well as Plaza Premium Group customers.
+                - separator [ref=e187]
+                - generic [ref=e189]: Published on 13 Aug 2021
+              - generic [ref=e193]:
+                - link "Plaza Premium Group brings the travel community together with We’re Ready Whenever You Are" [ref=e194] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2021/plaza-premium-group-brings-travel-community-togeth
+                  - heading "Plaza Premium Group brings the travel community together with We’re Ready Whenever You Are" [level=4] [ref=e195]
+                - paragraph [ref=e196]: Plaza Premium Group kicks off post-pandemic summer travel with their new We’re Ready Whenever You Are campaign. From 30 July until 31 August 2021, for those who purchase the Plaza Premium Lounge Pass online, the Summer Sale promotion offers discounts of up to 23% off and Arrture points earnings.
+                - separator [ref=e197]
+                - generic [ref=e199]: Published on 28 Jul 2021
+              - generic [ref=e203]:
+                - link "Plaza Premium Group and DragonPass International to offer the largest network of airport hospitality services" [ref=e204] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2021/plaza-premium-group-and-dragonpass-international-t
+                  - heading "Plaza Premium Group and DragonPass International to offer the largest network of airport hospitality services" [level=4] [ref=e205]
+                - paragraph [ref=e206]: better variety, flexibility and seamless solution ready for corporate clients
+                - separator [ref=e207]
+                - generic [ref=e209]: Published on 07 Jun 2021
+              - generic [ref=e213]:
+                - link "Menzies Aviation and Plaza Premium Group join forces to create global executive services & lounge partnership" [ref=e214] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/may-2021/menzies-aviation-and-plaza-premium-group-join-forc
+                  - heading "Menzies Aviation and Plaza Premium Group join forces to create global executive services & lounge partnership" [level=4] [ref=e215]
+                - paragraph
+                - separator [ref=e216]
+                - generic [ref=e218]: Published on 27 May 2021
+              - generic [ref=e222]:
+                - link "Plaza Premium Lounge Pass unlocks a global airport lounge experience for travellers" [ref=e223] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/may-2021/plaza-premium-lounge-pass-unlocks-a-global-airport
+                  - heading "Plaza Premium Lounge Pass unlocks a global airport lounge experience for travellers" [level=4] [ref=e224]
+                - paragraph [ref=e225]: The new to market PPL Pass is seamlessly integrated with Smart Traveller, Plaza Premium Group’s digital membership loyalty programme
+                - separator [ref=e226]
+                - generic [ref=e228]: Published on 20 May 2021
+              - generic [ref=e232]:
+                - link "Plaza Premium Group Partners with Capital One To Develop Branded Airport Lounge" [ref=e233] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/may-2021/plaza-premium-group-partners-with-capital-one-to-d
+                  - heading "Plaza Premium Group Partners with Capital One To Develop Branded Airport Lounge" [level=4] [ref=e234]
+                - paragraph [ref=e235]: Plaza Premium Group, the world’s leading airport hospitality service provider, is partnering with Capital One Financial Corporation, a U.S. financial services company based in McLean, Va., to create a unique, customer-first airport lounge at Dallas-Fort Worth Airport (DFW).
+                - separator [ref=e236]
+                - generic [ref=e238]: Published on 17 May 2021
+              - generic [ref=e242]:
+                - link "Plaza Premium Lounge Extends Lounge Experience to High-speed Railway Lounges in China" [ref=e243] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2021/plaza-premium-lounge-extends-lounge-experience-to
+                  - heading "Plaza Premium Lounge Extends Lounge Experience to High-speed Railway Lounges in China" [level=4] [ref=e244]
+                - paragraph [ref=e245]: The first “DragonPass x Plaza Premium Lounge’’ High-speed Railway Lounge debuts in Changsha
+                - separator [ref=e246]
+                - generic [ref=e248]: Published on 02 Mar 2021
+              - generic [ref=e252]:
+                - link "Plaza Premium Group Extends Seamless World-class Airport Hospitality to Global Travellers at Istanbul Sabiha Gökçen International Airport" [ref=e253] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/december-2020/plaza-premium-group-extends-seamless-world-class-a
+                  - heading "Plaza Premium Group Extends Seamless World-class Airport Hospitality to Global Travellers at Istanbul Sabiha Gökçen International Airport" [level=4] [ref=e254]
+                - paragraph [ref=e255]: İstanbul Sabiha Gökçen, a fully owned asset of Malaysia Airports and recognised as Turkey’s emerging city airport, entrusted its premium services with Plaza Premium Group, a leading global airport hospitality brand
+                - separator [ref=e256]
+                - generic [ref=e258]: Published on 21 Dec 2020
+              - generic [ref=e262]:
+                - link "Plaza Premium Group and marhaba Forms Partnership to Enhance Airport Hospitality Experience Globally" [ref=e263] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/december-2020/plaza-premium-group-and-marhaba-forms-partnership
+                  - heading "Plaza Premium Group and marhaba Forms Partnership to Enhance Airport Hospitality Experience Globally" [level=4] [ref=e264]
+                - paragraph [ref=e265]: Plaza Premium Group and marhaba have formed a strategic partnership to enhance their offering of airport lounges and meet and greet services around the world. The partnership will see the two companies expand market presence by consolidating service distribution and customer engagement through integrated cross-selling capabilities.
+                - separator [ref=e266]
+                - generic [ref=e268]: Published on 16 Dec 2020
+              - generic [ref=e272]:
+                - link "Plaza Premium Group presents the ‘Essentials of Travelling’ gift in support of global travel this holiday season" [ref=e273] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/december-2020/plaza-premium-group-presents-the-‘essentials-of-tr
+                  - heading "Plaza Premium Group presents the ‘Essentials of Travelling’ gift in support of global travel this holiday season" [level=4] [ref=e274]
+                - paragraph [ref=e275]: Plaza Premium Group, pioneer of airport hospitality services, is supporting global travellers this festive season by presenting the ‘essentials of travelling’.
+                - separator [ref=e276]
+                - generic [ref=e278]: Published on 03 Dec 2020
+              - generic [ref=e282]:
+                - link "Plaza Premium Group receives top recognition for its Airport Lounges and In-Terminal Hotels across Asia, the Middle East and Europe at Business Traveller Asia-Pacific Awards and World Travel Awards" [ref=e283] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2020/plaza-premium-group-receives-top-recognition
+                  - heading "Plaza Premium Group receives top recognition for its Airport Lounges and In-Terminal Hotels across Asia, the Middle East and Europe at Business Traveller Asia-Pacific Awards and World Travel Awards" [level=4] [ref=e284]
+                - paragraph [ref=e285]: It’s been a very challenging year globally for the travel industry, and still being recognised for our team’s dedication in prioritising wellbeing and safety while maintaining outstanding service during this critical time is a very proud moment for us.
+                - separator [ref=e286]
+                - generic [ref=e288]: Published on 04 Nov 2020
+              - generic [ref=e292]:
+                - link "Plaza Premium Lounge Re-Opens at Toronto Pearson International Airport to Support Domestic and International Travel" [ref=e293] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2020/plaza-premium-lounge-re-opens-at-toronto-pearson-i
+                  - heading "Plaza Premium Lounge Re-Opens at Toronto Pearson International Airport to Support Domestic and International Travel" [level=4] [ref=e294]
+                - paragraph [ref=e295]: Plaza Premium Lounge at the Domestic Hall of Terminal 1 at Toronto Pearson International Airport has recently reopened to support domestic travel in Canada.
+                - separator [ref=e296]
+                - generic [ref=e298]: Published on 22 Oct 2020
+              - generic [ref=e302]:
+                - link "Plaza Premium Lounge Re-Opens in Rome at Terminal 3 of Fiumicino International Airport" [ref=e303] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2020/plaza-premium-lounge-re-opens-in-rome-at-terminal
+                  - heading "Plaza Premium Lounge Re-Opens in Rome at Terminal 3 of Fiumicino International Airport" [level=4] [ref=e304]
+                - paragraph [ref=e305]: The Group’s largest airport lounge in Europe, Plaza Premium Lounge at the departures hall of Terminal 3 of Fiumicino Airport has recently reopened to support essential travel. The lounge welcomes travellers flying with Turkish Airlines and Etihad in addition to all departing passengers regardless of the travel class or airline starting at USD47 and USD89 for 2-hour and 5-hour use respectively.
+                - separator [ref=e306]
+                - generic [ref=e308]: Published on 07 Oct 2020
+              - generic [ref=e312]:
+                - link "The World’s First Common-Use Airport Lounge Concept Plaza Premium Lounge Debuts in the USA at Dallas Fort Worth International Airport" [ref=e313] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/september-2020/the-world’s-first-common-use-airport-lounge-concep
+                  - heading "The World’s First Common-Use Airport Lounge Concept Plaza Premium Lounge Debuts in the USA at Dallas Fort Worth International Airport" [level=4] [ref=e314]
+                - paragraph [ref=e315]: The newly opened lounge implements new standard of hygienic measures to ensure a safe and worry-free lounge environment
+                - separator [ref=e316]
+                - generic [ref=e318]: Published on 08 Sep 2020
+              - generic [ref=e322]:
+                - link "Plaza Premium Lounges Reopen In Terminal 2 and 5 at London Heathrow" [ref=e323] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/september-2020/plaza-premium-lounges-reopen-in-terminal-2-and-5-a
+                  - heading "Plaza Premium Lounges Reopen In Terminal 2 and 5 at London Heathrow" [level=4] [ref=e324]
+                - paragraph [ref=e325]: With Enhanced Hygienic Protocol to Ensure Worry-Free Lounge Experience
+                - separator [ref=e326]
+                - generic [ref=e328]: Published on 03 Sep 2020
+              - generic [ref=e332]:
+                - link "Plaza Premium Lounge Supports Essential Travel With Re-Openings Across the Globe" [ref=e333] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2020/plaza-premium-lounge-supports-essential-travel
+                  - heading "Plaza Premium Lounge Supports Essential Travel With Re-Openings Across the Globe" [level=4] [ref=e334]
+                - paragraph [ref=e335]: Wellbeing Ambassadors will take care of travellers; food service is tailored and modified for heightened hygiene
+                - separator [ref=e336]
+                - generic [ref=e338]: Published on 20 Jul 2020
+              - generic [ref=e342]:
+                - link "Pay-Per-Use Airport Lounge Plaza Premium Lounge Expands in Australia with New Addition at Sydney Kingsford Smith International Airport" [ref=e343] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2020/pay-per-use-airport-lounge-plaza-premium-lounge-ex
+                  - heading "Pay-Per-Use Airport Lounge Plaza Premium Lounge Expands in Australia with New Addition at Sydney Kingsford Smith International Airport" [level=4] [ref=e344]
+                - paragraph [ref=e345]: Introducing high tea paired with renowned Sri Lanka-based Dilmah
+                - separator [ref=e346]
+                - generic [ref=e348]: Published on 17 Mar 2020
+              - generic [ref=e352]:
+                - link "Plaza Premium Lounge Dubai Creates a Lasting Impression for Travellers Departing Dubai International Airport" [ref=e353] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/january-2020/plaza-premium-lounge-dubai-creates-a-lasting-impre
+                  - heading "Plaza Premium Lounge Dubai Creates a Lasting Impression for Travellers Departing Dubai International Airport" [level=4] [ref=e354]
+                - paragraph [ref=e355]: Comprehensive range of services to serve individual, business and family travellers
+                - separator [ref=e356]
+                - generic [ref=e358]: Published on 24 Jan 2020
+              - generic [ref=e362]:
+                - link "Plaza Premium Group Strengthens Operations and Commercial Leadership In Preparation for the Group’s Strategic Global Expansion" [ref=e363] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2019/plaza-premium-group-executive-appointment
+                  - heading "Plaza Premium Group Strengthens Operations and Commercial Leadership In Preparation for the Group’s Strategic Global Expansion" [level=4] [ref=e364]
+                - paragraph [ref=e365]: The pioneer and world leader of airport hospitality Plaza Premium Group named Chamil Liyanage as Group Director of Lounges; Suresh Kumar as Group Director of Hotels; and Becky Lim as Group Managing Director of Commercial.
+                - separator [ref=e366]
+                - generic [ref=e368]: Published on 24 Oct 2019
+              - generic [ref=e372]:
+                - link "Plaza Premium Group Won “Best Airport Lounge Operator” at the TTG Travel Awards and Plaza Premium First Hong Kong Named “Best Independent Airport Lounge” by Business Traveller Asia Pacific" [ref=e373] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2019/ttg-and-btap-awards-2019
+                  - heading "Plaza Premium Group Won “Best Airport Lounge Operator” at the TTG Travel Awards and Plaza Premium First Hong Kong Named “Best Independent Airport Lounge” by Business Traveller Asia Pacific" [level=4] [ref=e374]
+                - paragraph [ref=e375]: We are glad to be recognised by our partners as the best airport lounge operator.
+                - separator [ref=e376]
+                - generic [ref=e378]: Published on 11 Oct 2019
+              - generic [ref=e382]:
+                - link "Plaza Premium Lounge Added Domestic Arrivals Lounge at Mactan Cebu International Airport" [ref=e383] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/september-2019/plaza-premium-lounge-added-domestic-arrivals-loung
+                  - heading "Plaza Premium Lounge Added Domestic Arrivals Lounge at Mactan Cebu International Airport" [level=4] [ref=e384]
+                - paragraph [ref=e385]: Offering unrivalled airport hospitality for Cebu island hoppers with International Departures and Domestic Arrivals experience.
+                - separator [ref=e386]
+                - generic [ref=e388]: Published on 11 Sep 2019
+              - generic [ref=e392]:
+                - link "Plaza Premium First Celebrates First Anniversary with Limited-Time Surprises for Global Travellers and Treats for Birthday Guests" [ref=e393] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2019/plaza-premium-first-celebrates-first-anniversary-w
+                  - heading "Plaza Premium First Celebrates First Anniversary with Limited-Time Surprises for Global Travellers and Treats for Birthday Guests" [level=4] [ref=e394]
+                - paragraph [ref=e395]: Plaza Premium First celebrates its first anniversary this summer in Hong Kong International Airport with a month-long celebration. From 25 July until 31 August, Plaza Premium First will introduce new exclusive dishes and drinks to celebrate guest’s birthday with a number of surprising delights and will also offer special online booking promotions.
+                - separator [ref=e396]
+                - generic [ref=e398]: Published on 31 Jul 2019
+              - generic [ref=e402]:
+                - link "Plaza Premium Lounge Named Skytrax World’s Best Independent Airport Lounge for four consecutive years" [ref=e403] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2019/laza-premium-lounge-named-skytrax-world’s-best-ind
+                  - heading "Plaza Premium Lounge Named Skytrax World’s Best Independent Airport Lounge for four consecutive years" [level=4] [ref=e404]
+                - paragraph [ref=e405]: The world leader is committed to drive airport experience to the next level
+                - separator [ref=e406]
+                - generic [ref=e408]: Published on 19 Jun 2019
+              - generic [ref=e412]:
+                - link "Plaza Premium Lounge Expands its European Portfolio with Latest Opening in Helsinki Airport" [ref=e413] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2019/plaza-premium-lounge-expands-its-european-portfoli
+                  - heading "Plaza Premium Lounge Expands its European Portfolio with Latest Opening in Helsinki Airport" [level=4] [ref=e414]
+                - paragraph [ref=e415]: Plaza Premium Lounge Helsinki unveiled in International Departures Terminal 2 of the non-Schengen terminal of Helsinki Airport in May 2019, joining the brand’s current European locations at London Heathrow Airport and Leonardo da Vinci-Fiumicino Airport in Rome.
+                - separator [ref=e416]
+                - generic [ref=e418]: Published on 18 Jun 2019
+              - generic [ref=e422]:
+                - link "Plaza Premium Group Officially Lands United States with the Debut of Airport Meet-and-Greet Service Allways at Dallas Fort Worth International Airport" [ref=e423] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/may-2019/plaza-premium-group-officially-lands-united-states
+                  - heading "Plaza Premium Group Officially Lands United States with the Debut of Airport Meet-and-Greet Service Allways at Dallas Fort Worth International Airport" [level=4] [ref=e424]
+                - paragraph [ref=e425]: The group’s airport lounge brand Plaza Premium Lounge will unveil at the airport in 2020
+                - separator [ref=e426]
+                - generic [ref=e428]: Published on 29 May 2019
+              - generic [ref=e432]:
+                - link "Plaza Premium Lounge Launches in Langkawi International Airport" [ref=e433] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2019/plaza-premium-lounge-launches-in-langkawi-internat
+                  - heading "Plaza Premium Lounge Launches in Langkawi International Airport" [level=4] [ref=e434]
+                - paragraph [ref=e435]: The latest addition of the award-winning independent lounge brand promotes sustainable travel
+                - separator [ref=e436]
+                - generic [ref=e438]: Published on 05 Mar 2019
+              - generic [ref=e442]:
+                - link "Plaza Premium Lounge Launches First-ever Global Brand Campaign “Your Airport Moment”" [ref=e443] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/january-2019/plaza-premium-lounge-launches-first-ever-global-br
+                  - heading "Plaza Premium Lounge Launches First-ever Global Brand Campaign “Your Airport Moment”" [level=4] [ref=e444]
+                - paragraph [ref=e445]: Curation of unique and memorable airport experiences around the world
+                - separator [ref=e446]
+                - generic [ref=e448]: Published on 23 Jan 2019
+              - generic [ref=e452]:
+                - link "Plaza Premium Lounge Ahmedabad Debuts in Gujarat, India" [ref=e453] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2018/plaza-premium-lounge-ahmedabad-debuts-in-gujarat-i
+                  - heading "Plaza Premium Lounge Ahmedabad Debuts in Gujarat, India" [level=4] [ref=e454]
+                - paragraph [ref=e455]: Plaza Premium Lounge, world's largest independent airport lounge network, is pleased to announce the opening of Plaza Premium Lounge in Ahmedabad, India.
+                - separator [ref=e456]
+                - generic [ref=e458]: Published on 05 Nov 2018
+              - generic [ref=e462]:
+                - link "Plaza Premium Lounge Awarded \"Best Independent Airport Lounge\" and “Best Airport Lounge Operator”" [ref=e463] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/september-2018/plaza-premium-lounge-awarded-best-independent-airp
+                  - heading "Plaza Premium Lounge Awarded \"Best Independent Airport Lounge\" and “Best Airport Lounge Operator”" [level=4] [ref=e464]
+                - paragraph [ref=e465]: Plaza Premium Lounge, the world’s largest independent airport lounge network, is proud to be recognised by two leading travel publications Business Traveller Asia Pacific and TTG Asia at the recent annual travel awards.
+                - separator [ref=e466]
+                - generic [ref=e468]: Published on 28 Sep 2018
+              - generic [ref=e472]:
+                - link "Plaza Premium Lounge Opening at Helsinki Airport in February 2019" [ref=e473] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/september-2018/plaza-premium-lounge-opening-at-helsinki-airport-i
+                  - heading "Plaza Premium Lounge Opening at Helsinki Airport in February 2019" [level=4] [ref=e474]
+                - paragraph [ref=e475]: Helsinki Airport’s wide range of services will be topped up with a new pay-in lounge, Plaza Premium Lounge, opening in February 2019 at non-Schengen terminal as a part of the terminal extension opens.
+                - separator [ref=e476]
+                - generic [ref=e478]: Published on 14 Sep 2018
+              - generic [ref=e482]:
+                - link "Plaza Premium Group Celebrated its 20th Anniversary Milestone alongside the Launch of Plaza Premium First in Hong Kong International Airport" [ref=e483] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2018/plaza-premium-group-celebrated-its-20th-anniversar
+                  - heading "Plaza Premium Group Celebrated its 20th Anniversary Milestone alongside the Launch of Plaza Premium First in Hong Kong International Airport" [level=4] [ref=e484]
+                - paragraph [ref=e485]: The Group wins Skytrax’s Best Independent Airport Lounge Award for the third year in a row Hong Kong, 27 July 2018 - Plaza Premium Group (PPG), the world’s largest independent airport lounge network, has been named Skytrax’s “World’...
+                - separator [ref=e486]
+                - generic [ref=e488]: Published on 27 Jul 2018
+              - generic [ref=e492]:
+                - link "Plaza Premium Group Celebrates 20th Anniversary with the Launch of New Lounge Concept Plaza Premium First" [ref=e493] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2018/plaza-premium-group-celebrates-20th-anniversary-wi
+                  - heading "Plaza Premium Group Celebrates 20th Anniversary with the Launch of New Lounge Concept Plaza Premium First" [level=4] [ref=e494]
+                - paragraph [ref=e495]: A new independent lounge experience redefining personalised hospitality in Hong Kong International Airport. Hong Kong, 20 July 2018 - Plaza Premium Group, the world’s largest independent airport lounge network, celebrates its 20th anniversary
+                - separator [ref=e496]
+                - generic [ref=e498]: Published on 20 Jul 2018
+              - generic [ref=e502]:
+                - link "Plaza Premium Lounge Wins Skytrax Award for Third Consecutive Year" [ref=e503] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/july-2018/plaza-premium-lounge-wins-skytrax-award-for-third
+                  - heading "Plaza Premium Lounge Wins Skytrax Award for Third Consecutive Year" [level=4] [ref=e504]
+                - paragraph [ref=e505]: Worldwide Passengers Rank Plaza Premium Best for Lounge Facilities and Service Standards 18 July 2018, London - Plaza Premium Lounge, the world’s largest independent airport lounge network, has won the “World’s Best Independent Airport Loun...
+                - separator [ref=e506]
+                - generic [ref=e508]: Published on 18 Jul 2018
+              - generic [ref=e512]:
+                - link "Plaza Premium Lounge Debuts in Rome" [ref=e513] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/april-2018/plaza-premium-lounge-debuts-in-rome
+                  - heading "Plaza Premium Lounge Debuts in Rome" [level=4] [ref=e514]
+                - paragraph [ref=e515]: A haven of rest and relaxation awaits departing and transiting travellers in Terminal 3 of Leonardo da Vinci Airport. 23 April 2018, Rome – Plaza Premium Lounge, the world’s biggest independent airport lounge network, together with Aeroporti
+                - separator [ref=e516]
+                - generic [ref=e518]: Published on 23 Apr 2018
+              - generic [ref=e522]:
+                - link "Aerotel soon to open in Guangzhou Baiyun International Airport New Terminal" [ref=e523] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/april-2018/aerotel-soon-to-open-in-guangzhou-baiyun-internati
+                  - heading "Aerotel soon to open in Guangzhou Baiyun International Airport New Terminal" [level=4] [ref=e524]
+                - paragraph [ref=e525]: Leading Global Airport Hospitality group Plaza Premium Group announced the opening plan of Aerotel, the world’s biggest airport transit hotel chain, in the upcoming new Terminal 2 of Guangzhou Baiyun International Airport.
+                - separator [ref=e526]
+                - generic [ref=e528]: Published on 17 Apr 2018
+              - generic [ref=e532]:
+                - link "Nine in ten Australian travellers plagued by stress ahead of international journeys" [ref=e533] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2018/nine-in-ten-australian-travellers-plagued-by-stres
+                  - heading "Nine in ten Australian travellers plagued by stress ahead of international journeys" [level=4] [ref=e534]
+                - paragraph [ref=e535]: American Express and Plaza Premium Lounge open new American Express Lounge and new Plaza Premium Lounge at Melbourne Airport to help travellers relax and refresh before their travels
+                - separator [ref=e536]
+                - generic [ref=e538]: Published on 26 Mar 2018
+              - generic [ref=e542]:
+                - link "Refurbished Plaza Premium Lounge ― Al Dhabi Now Opens at Abu Dhabi International Airport" [ref=e543] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/january-2018/refurbished-plaza-premium-lounge-―-al-dhabi-now-op
+                  - heading "Refurbished Plaza Premium Lounge ― Al Dhabi Now Opens at Abu Dhabi International Airport" [level=4] [ref=e544]
+                - paragraph [ref=e545]: Abu Dhabi International Airport (AUH) has unveiled its revamped Plaza Premium Lounge – Al Dhabi in Terminal 1, with 47% increase in seating capacity, and amenities that can accommodate approximately 300 persons.
+                - separator [ref=e546]
+                - generic [ref=e548]: Published on 31 Jan 2018
+              - generic [ref=e552]:
+                - link "Plaza Premium Group’s Song Hoi-see named Business Person of the Year at the Sin Chew Business Excellence Awards 2017" [ref=e553] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2017/plaza-premium-group’s-song-hoi-see-named-business
+                  - heading "Plaza Premium Group’s Song Hoi-see named Business Person of the Year at the Sin Chew Business Excellence Awards 2017" [level=4] [ref=e554]
+                - paragraph [ref=e555]: Mr. Song Hoi-see, Founder and CEO of Plaza Premium Group, was bestowed the prestigious Business Person of the Year Award at the Sin Chew Business Excellence Awards 2017
+                - separator [ref=e556]
+                - generic [ref=e558]: Published on 22 Nov 2017
+              - generic [ref=e562]:
+                - link "Plaza Premium Lounge now open in Heathrow Terminal 5" [ref=e563] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/november-2017/plaza-premium-lounge-now-open-in-heathrow-terminal
+                  - heading "Plaza Premium Lounge now open in Heathrow Terminal 5" [level=4] [ref=e564]
+                - paragraph [ref=e565]: First lounge in the terminal for Plaza Premium Group
+                - separator [ref=e566]
+                - generic [ref=e568]: Published on 09 Nov 2017
+              - generic [ref=e572]:
+                - link "Plaza Premium Group opens new Lounge in Riyadh and wins Lounge Contract with Dammam Airport" [ref=e573] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/october-2017/plaza-premium-group-opens-new-lounge-in-riyadh-and
+                  - heading "Plaza Premium Group opens new Lounge in Riyadh and wins Lounge Contract with Dammam Airport" [level=4] [ref=e574]
+                - paragraph [ref=e575]: Plaza Premium Lounge extends its global network to Saudi Arabia
+                - separator [ref=e576]
+                - generic [ref=e578]: Published on 20 Oct 2017
+              - generic [ref=e582]:
+                - link "Plaza Premium Group and SATS jointly win Lounge Contract with Singapore Changi Airport" [ref=e583] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/august-2017/plaza-premium-group-and-sats-jointly-win-lounge-co
+                  - heading "Plaza Premium Group and SATS jointly win Lounge Contract with Singapore Changi Airport" [level=4] [ref=e584]
+                - paragraph [ref=e585]: Plaza Premium Group and SATS join forces to provide independent airport lounge services to all travellers in the New Terminal 4 of Changi Airport.
+                - separator [ref=e586]
+                - generic [ref=e588]: Published on 24 Aug 2017
+              - generic [ref=e592]:
+                - link "Plaza Premium Lounge crowned Skytrax's Best Independent Airport Lounge Worldwide for the second consecutive year" [ref=e593] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2017/plaza-premium-lounge-crowned-skytrax-s-best-indepe
+                  - heading "Plaza Premium Lounge crowned Skytrax's Best Independent Airport Lounge Worldwide for the second consecutive year" [level=4] [ref=e594]
+                - paragraph [ref=e595]: The only Hong Kong-grown airport hospitality brand winning this global award.
+                - separator [ref=e596]
+                - generic [ref=e598]: Published on 20 Jun 2017
+              - generic [ref=e602]:
+                - link "Plaza Premium Lounge Scoops Airport Authority Hong Kong’s 2016 Best Customer Service of the Year in the Corporate Excellence Award for its Exemplary Customer Service" [ref=e603] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2016/plaza-premium-lounge-scoops-airport-authority-hong
+                  - heading "Plaza Premium Lounge Scoops Airport Authority Hong Kong’s 2016 Best Customer Service of the Year in the Corporate Excellence Award for its Exemplary Customer Service" [level=4] [ref=e604]
+                - paragraph [ref=e605]: Plaza Premium Lounge, the world’s largest independent airport lounge network, won the most coveted “Corporate Excellence Award”
+                - separator [ref=e606]
+                - generic [ref=e608]: Published on 06 Jun 2016
+              - generic [ref=e612]:
+                - link "Sneak Peek into Australia’s Largest Independent Airport Lounge" [ref=e613] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/june-2016/sneak-peek-into-australia’s-largest-independent-ai
+                  - heading "Sneak Peek into Australia’s Largest Independent Airport Lounge" [level=4] [ref=e614]
+                - paragraph [ref=e615]: A brand new Plaza Premium Lounge at Brisbane Airport has soft-opened, welcoming all travellers regardless of their airline or class of travel
+                - separator [ref=e616]
+                - generic [ref=e618]: Published on 03 Jun 2016
+              - generic [ref=e622]:
+                - link "Plaza Premium Group has been appointed to operate and manage all Cathay Pacific’s First and Business Class Lounges at HKIA" [ref=e623] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/april-2016/plaza-premium-group-has-been-appointed-to-operate
+                  - heading "Plaza Premium Group has been appointed to operate and manage all Cathay Pacific’s First and Business Class Lounges at HKIA" [level=4] [ref=e624]
+                - paragraph [ref=e625]: Plaza Premium Group, the pioneer and industry leader in providing Premium Airport Services
+                - separator [ref=e626]
+                - generic [ref=e628]: Published on 25 Apr 2016
+              - generic [ref=e632]:
+                - link "Plaza Premium Group Speaks on the Role of 3rd Party Airport Lounge at Passenger Terminal Conference 2016 in Germany" [ref=e633] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/march-2016/plaza-premium-group-speaks-on-the-role-of-3rd-part
+                  - heading "Plaza Premium Group Speaks on the Role of 3rd Party Airport Lounge at Passenger Terminal Conference 2016 in Germany" [level=4] [ref=e634]
+                - paragraph [ref=e635]: Mr. Song Hoi-see, Founder and CEO of Plaza Premium Group, the pioneer and industry leader in providing Premium Airport Services
+                - separator [ref=e636]
+                - generic [ref=e638]: Published on 16 Mar 2016
+              - generic [ref=e642]:
+                - link "Plaza Premium Group talked to CNN Business Traveller about the Rise of Independent Airport Lounges in London Heathrow" [ref=e643] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/february-2016/plaza-premium-group-talked-to-cnn-business-travell
+                  - heading "Plaza Premium Group talked to CNN Business Traveller about the Rise of Independent Airport Lounges in London Heathrow" [level=4] [ref=e644]
+                - paragraph [ref=e645]: Mr. Song Hoi-see, Founder and CEO of Plaza Premium Group, the pioneer and industry leader in providing Premium Airport Services
+                - separator [ref=e646]
+                - generic [ref=e648]: Published on 29 Feb 2016
+              - generic [ref=e652]:
+                - link "Plaza Premium Group Makes its European Trade Show Debut at Business Travel Show" [ref=e653] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/february-2016/plaza-premium-group-makes-its-european-trade-show
+                  - heading "Plaza Premium Group Makes its European Trade Show Debut at Business Travel Show" [level=4] [ref=e654]
+                - paragraph [ref=e655]: Plaza Premium Group, the pioneer and industry leader in providing Premium Airport Services, makes its European trade show debut today at the Business Travel Show
+                - separator [ref=e656]
+                - generic [ref=e658]: Published on 24 Feb 2016
+              - generic [ref=e662]:
+                - link "Plaza Premium Lounge Officially Debuts in Phnom Penh" [ref=e663] [cursor=pointer]:
+                  - /url: /en-uk/discover/news/january-2016/plaza-premium-lounge-officially-debuts-in-phnom-pe
+                  - heading "Plaza Premium Lounge Officially Debuts in Phnom Penh" [level=4] [ref=e664]
+                - paragraph [ref=e665]: The first independent airport lounge in Cambodia is now open to all travellers
+                - separator [ref=e666]
+                - generic [ref=e668]: Published on 11 Jan 2016
+        - generic [ref=e670]:
+          - generic [ref=e671]:
+            - list [ref=e672]:
+              - listitem [ref=e673]:
+                - paragraph [ref=e674]: "Online payment options:"
+              - listitem [ref=e675]:
+                - img [ref=e676]
+              - listitem [ref=e677]:
+                - img [ref=e678]
+              - listitem [ref=e679]:
+                - img [ref=e680]
+              - listitem [ref=e681]:
+                - img [ref=e682]
+              - listitem [ref=e683]:
+                - img [ref=e684]
+              - listitem [ref=e685]:
+                - img [ref=e686]
+            - heading "Sign up to stay in touch" [level=3] [ref=e687]
+            - generic [ref=e689]:
+              - generic [ref=e690]:
+                - generic [ref=e691]: First name
+                - textbox [ref=e692]: First name
+              - generic [ref=e693]:
+                - generic [ref=e694]: Last name
+                - textbox [ref=e695]: Last name
+              - generic [ref=e696]:
+                - generic [ref=e697]: Email Address
+                - textbox [ref=e698]: Email
+              - link "Submit" [ref=e699] [cursor=pointer]:
+                - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("p$lt$WebPartZone9$ZFooterNewsletter$NetcoreNewsletter$llb_Submit", "", true, "newsletter", "", false, true))
+            - generic [ref=e700]:
+              - text: By submitting your details, you agree to our
+              - link "Privacy Policy" [ref=e701] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+          - generic [ref=e702]:
+            - generic [ref=e703]:
+              - list [ref=e706]:
+                - listitem [ref=e707]:
+                  - link "" [ref=e708] [cursor=pointer]:
+                    - /url: https://www.facebook.com/plazapremiumlounge
+                    - generic [ref=e709]: 
+                - listitem [ref=e710]:
+                  - link "" [ref=e711] [cursor=pointer]:
+                    - /url: https://www.instagram.com/plazapremiumlounge
+                    - generic [ref=e712]: 
+                - listitem [ref=e713]:
+                  - link "" [ref=e714] [cursor=pointer]:
+                    - /url: /PlazaPremiumLounge/media/PPLMedia/Pages/Home/PPG_WeChat_640x640.JPG
+                    - generic [ref=e715]: 
+              - generic [ref=e718]:
+                - link [ref=e720] [cursor=pointer]:
+                  - /url: http://www.plazapremiumgroup.com/
+                  - img [ref=e721]
+                - generic [ref=e722]:
+                  - generic [ref=e723]:
+                    - generic [ref=e724]:
+                      - generic [ref=e725]: Lounge
+                      - list [ref=e726]:
+                        - listitem [ref=e727]:
+                          - link [ref=e728] [cursor=pointer]:
+                            - /url: https://www.plazapremiumlounge.com/
+                            - img [ref=e729]
+                        - listitem [ref=e730]
+                        - listitem [ref=e731]:
+                          - img [ref=e732]
+                    - generic [ref=e734]:
+                      - generic [ref=e735]: Concierge
+                      - list [ref=e736]:
+                        - listitem [ref=e737]:
+                          - link [ref=e738] [cursor=pointer]:
+                            - /url: https://www.allwaysvip.com/
+                            - img [ref=e739]
+                        - listitem [ref=e740]:
+                          - img [ref=e741]
+                    - generic [ref=e743]:
+                      - generic [ref=e744]: Hotel
+                      - list [ref=e745]:
+                        - listitem [ref=e746]:
+                          - link [ref=e747] [cursor=pointer]:
+                            - /url: https://www.myaerotel.com/
+                        - listitem [ref=e748]:
+                          - img [ref=e749]
+                  - generic [ref=e753]:
+                    - generic [ref=e754]:
+                      - generic [ref=e755]: F&B
+                      - list [ref=e756]:
+                        - listitem [ref=e757]:
+                          - link [ref=e758] [cursor=pointer]:
+                            - /url: https://www.intervalsbar.com/
+                        - listitem [ref=e759]:
+                          - link [ref=e760] [cursor=pointer]:
+                            - /url: https://www.airport-dining.com/
+                            - img [ref=e761]
+                    - generic [ref=e764]:
+                      - generic [ref=e765]: Reward & Membership Programme
+                      - list [ref=e766]:
+                        - listitem [ref=e767]:
+                          - link [ref=e768] [cursor=pointer]:
+                            - /url: https://www.mysmarttraveller.com/h/home
+                            - img [ref=e769]
+            - separator [ref=e770]
+            - generic [ref=e772]:
+              - text: © Copyright 2026 Plaza Premium Lounge Management Limited. All Rights Reserved. Please read our
+              - link "Terms of Use" [ref=e773] [cursor=pointer]:
+                - /url: /discover/terms-of-use/
+              - text: "&"
+              - link "Privacy Policy" [ref=e774] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+        - generic [ref=e778]:
+          - generic [ref=e779]:
+            - paragraph
+            - paragraph [ref=e780]:
+              - text: In order to enable certain services/features and improve your website experience, our website uses tools such as cookies, which collect data on how you interact with our website.
+              - text: By continuing to use our website, you agree to our use of such cookies. You can find more information on our data usage and cookie policy
+              - link "here." [ref=e781] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+                - strong [ref=e782]: here.
+            - paragraph
+          - button "I Understand" [ref=e784] [cursor=pointer]
+        - text: 
+    - text:   
+  - iframe [ref=e785]:
+    - generic [ref=f28e2]:
+      - generic [ref=f28e3] [cursor=pointer]: X
+      - generic [ref=f28e6]:
+        - paragraph [ref=f28e9]:
+          - strong [ref=f28e10]:
+            - generic [ref=f28e12]: Join Smart Traveller and unlock up to 20% off your booking.
+        - link "Know More" [ref=f28e15] [cursor=pointer]:
+          - /url: https://www.plazapremiumlounge.com/en-uk/discover/partner-offers/smart-traveller
+          - generic [ref=f28e16]: Know More
+  - iframe [ref=e786]:
+    - button "Chat" [ref=f29e4] [cursor=pointer]:
+      - generic [ref=f29e5]:
+        - img [ref=f29e6]
+        - text: Chat

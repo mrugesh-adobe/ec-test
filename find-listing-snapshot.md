@@ -1,0 +1,602 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - text: 
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - link "Plaza Premium Lounge Logo" [ref=e11] [cursor=pointer]:
+            - /url: /en-uk
+            - img "Plaza Premium Lounge Logo" [ref=e12]
+          - list [ref=e13]:
+            - listitem:
+              - list [ref=e15]:
+                - listitem [ref=e16]:
+                  - link "Your Destination Before Departure" [ref=e17] [cursor=pointer]:
+                    - /url: /en-US/campaign/yourdestinationbeforedeparture?utm_source=PPL&utm_medium=Homepage&utm_campaign=BrandCampaign&utm_content=menu_button
+                - listitem [ref=e18]:
+                  - link "Language and currency" [ref=e19] [cursor=pointer]:
+                    - /url: "#languagepopout"
+                - listitem [ref=e20]:
+                  - link "Login" [ref=e21] [cursor=pointer]:
+                    - /url: "#loginpopout"
+          - generic [ref=e23]:     
+      - main [ref=e24]:
+        - generic [ref=e26]:
+          - text: 
+          - generic [ref=e27]:
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - link "Home" [ref=e31] [cursor=pointer]:
+                  - /url: /Home
+              - listitem [ref=e32]: "|Beijing (PEK/PKX)"
+            - heading "Beijing Daxing International Airport (PKX)" [level=2] [ref=e33]:
+              - link "Beijing Daxing International Airport (PKX)" [ref=e34] [cursor=pointer]:
+                - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport
+            - generic [ref=e35]:
+              - list [ref=e37]:
+                - listitem [ref=e38]:
+                  - link "All" [ref=e39] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=All
+                - listitem [ref=e40]:
+                  - link "Lounge" [ref=e41] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=Lounge
+              - generic [ref=e42]:
+                - generic [ref=e43]:
+                  - generic [ref=e46]: Departures
+                  - generic [ref=e48]:
+                    - generic [ref=e49]:
+                      - generic [ref=e50]: 
+                      - text: Departures, Terminal
+                    - heading "BCS Domestic Lounge（Domestic Departure, Main Terminal)" [level=4] [ref=e51]:
+                      - link "BCS Domestic Lounge（Domestic Departure, Main Terminal)" [ref=e52] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/bcsdomloudomdep
+                    - generic [ref=e53]: 0400 - 2300 Daily
+                    - generic [ref=e54]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e55]
+                    - generic [ref=e56]:
+                      - generic [ref=e57]:
+                        - generic [ref=e58]: Features available
+                        - list [ref=e59]:
+                          - listitem [ref=e60]:
+                            - img [ref=e61]
+                          - listitem [ref=e62]:
+                            - img [ref=e63]
+                          - listitem [ref=e64]:
+                            - img [ref=e65]
+                          - listitem [ref=e66]:
+                            - img [ref=e67]
+                          - listitem [ref=e68]:
+                            - img [ref=e69]
+                          - listitem [ref=e70]:
+                            - img [ref=e71]
+                          - listitem [ref=e72]:
+                            - img [ref=e73]
+                          - listitem [ref=e74]:
+                            - img [ref=e75]
+                          - listitem [ref=e76]:
+                            - img [ref=e77]
+                      - link "View" [ref=e80] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/bcsdomloudomdep
+                - generic [ref=e81]:
+                  - generic [ref=e84]: Departures
+                  - generic [ref=e86]:
+                    - generic [ref=e87]:
+                      - generic [ref=e88]: 
+                      - text: Departures, Terminal
+                    - heading "BCS International Lounge（International Departure, Main Terminal）" [level=4] [ref=e89]:
+                      - link "BCS International Lounge（International Departure, Main Terminal）" [ref=e90] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/bcsintlouintdep
+                    - generic [ref=e91]: 24 Hours Daily
+                    - generic [ref=e92]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e93]
+                    - generic [ref=e94]:
+                      - generic [ref=e95]:
+                        - generic [ref=e96]: Features available
+                        - list [ref=e97]:
+                          - listitem [ref=e98]:
+                            - img [ref=e99]
+                          - listitem [ref=e100]:
+                            - img [ref=e101]
+                          - listitem [ref=e102]:
+                            - img [ref=e103]
+                          - listitem [ref=e104]:
+                            - img [ref=e105]
+                          - listitem [ref=e106]:
+                            - img [ref=e107]
+                          - listitem [ref=e108]:
+                            - img [ref=e109]
+                          - listitem [ref=e110]:
+                            - img [ref=e111]
+                          - listitem [ref=e112]:
+                            - img [ref=e113]
+                          - listitem [ref=e114]:
+                            - img [ref=e115]
+                      - link "View" [ref=e118] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/bcsintlouintdep
+                - generic [ref=e119]:
+                  - generic [ref=e122]: Departures
+                  - generic [ref=e124]:
+                    - generic [ref=e125]:
+                      - generic [ref=e126]: 
+                      - text: Departures, Terminal
+                    - heading "CHUM Domestic Lounge (Domestic Departure, Main Terminal)" [level=4] [ref=e127]:
+                      - link "CHUM Domestic Lounge (Domestic Departure, Main Terminal)" [ref=e128] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/chumdom
+                    - generic [ref=e129]: 0630 - 2230 daily
+                    - generic [ref=e130]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e131]
+                    - generic [ref=e132]:
+                      - generic [ref=e133]:
+                        - generic [ref=e134]: Features available
+                        - list [ref=e135]:
+                          - listitem [ref=e136]:
+                            - img [ref=e137]
+                          - listitem [ref=e138]:
+                            - img [ref=e139]
+                          - listitem [ref=e140]:
+                            - img [ref=e141]
+                          - listitem [ref=e142]:
+                            - img [ref=e143]
+                          - listitem [ref=e144]:
+                            - img [ref=e145]
+                          - listitem [ref=e146]:
+                            - img [ref=e147]
+                          - listitem [ref=e148]:
+                            - img [ref=e149]
+                      - link "View" [ref=e152] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/chumdom
+                - generic [ref=e153]:
+                  - generic [ref=e156]: Departures
+                  - generic [ref=e158]:
+                    - generic [ref=e159]:
+                      - generic [ref=e160]: 
+                      - text: Departures, Terminal
+                    - heading "CHUM International Lounge (International Departure, Main Terminal)" [level=4] [ref=e161]:
+                      - link "CHUM International Lounge (International Departure, Main Terminal)" [ref=e162] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/chumint
+                    - generic [ref=e163]: 0630 - 2230 daily
+                    - generic [ref=e164]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e165]
+                    - generic [ref=e166]:
+                      - generic [ref=e167]:
+                        - generic [ref=e168]: Features available
+                        - list [ref=e169]:
+                          - listitem [ref=e170]:
+                            - img [ref=e171]
+                          - listitem [ref=e172]:
+                            - img [ref=e173]
+                          - listitem [ref=e174]:
+                            - img [ref=e175]
+                          - listitem [ref=e176]:
+                            - img [ref=e177]
+                          - listitem [ref=e178]:
+                            - img [ref=e179]
+                          - listitem [ref=e180]:
+                            - img [ref=e181]
+                          - listitem [ref=e182]:
+                            - img [ref=e183]
+                      - link "View" [ref=e186] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/chumint
+                - generic [ref=e187]:
+                  - generic [ref=e190]: Departures
+                  - generic [ref=e192]:
+                    - generic [ref=e193]:
+                      - generic [ref=e194]: 
+                      - text: Departures, Terminal 1
+                    - heading "East Pacific Passenger Lounge (International Departure, Terminal 1)" [level=4] [ref=e195]:
+                      - link "East Pacific Passenger Lounge (International Departure, Terminal 1)" [ref=e196] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/east-pacific-passenger-lounge-international-depart
+                    - generic [ref=e197]: 24 hours
+                    - generic [ref=e198]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e199]
+                    - generic [ref=e200]:
+                      - generic [ref=e201]:
+                        - generic [ref=e202]: Features available
+                        - list [ref=e203]:
+                          - listitem [ref=e204]:
+                            - img [ref=e205]
+                          - listitem [ref=e206]:
+                            - img [ref=e207]
+                          - listitem [ref=e208]:
+                            - img [ref=e209]
+                          - listitem [ref=e210]:
+                            - img [ref=e211]
+                          - listitem [ref=e212]:
+                            - img [ref=e213]
+                          - listitem [ref=e214]:
+                            - img [ref=e215]
+                          - listitem [ref=e216]:
+                            - img [ref=e217]
+                          - listitem [ref=e218]:
+                            - img [ref=e219]
+                          - listitem [ref=e220]:
+                            - img [ref=e221]
+                          - listitem [ref=e222]:
+                            - img [ref=e223]
+                          - listitem [ref=e224]:
+                            - img [ref=e225]
+                          - listitem [ref=e226]:
+                            - img [ref=e227]
+                      - link "View" [ref=e230] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/east-pacific-passenger-lounge-international-depart
+                - generic [ref=e231]:
+                  - generic [ref=e234]: Departures
+                  - generic [ref=e236]:
+                    - generic [ref=e237]:
+                      - generic [ref=e238]: 
+                      - text: Departures, Concourse C
+                    - heading "V3 China Eastern Lounge (Domestic Departure)" [level=4] [ref=e239]:
+                      - link "V3 China Eastern Lounge (Domestic Departure)" [ref=e240] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/v3-china-eastern
+                    - generic [ref=e241]: 0500 till the last flight daily
+                    - generic [ref=e242]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e243]
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - generic [ref=e246]: Features available
+                        - list [ref=e247]:
+                          - listitem [ref=e248]:
+                            - img [ref=e249]
+                          - listitem [ref=e250]:
+                            - img [ref=e251]
+                          - listitem [ref=e252]:
+                            - img [ref=e253]
+                          - listitem [ref=e254]:
+                            - img [ref=e255]
+                      - link "View" [ref=e258] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/v3-china-eastern
+                - generic [ref=e259]:
+                  - generic [ref=e262]: Departures
+                  - generic [ref=e264]:
+                    - generic [ref=e265]:
+                      - generic [ref=e266]: 
+                      - text: Departures, Concourse B
+                    - heading "China Southern Skypearl Lounge (Domestic Departure)" [level=4] [ref=e267]:
+                      - link "China Southern Skypearl Lounge (Domestic Departure)" [ref=e268] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-skypearl-lounge
+                    - generic [ref=e269]: 0430 till the last flight daily
+                    - generic [ref=e270]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e271]
+                    - generic [ref=e272]:
+                      - generic [ref=e273]:
+                        - generic [ref=e274]: Features available
+                        - list [ref=e275]:
+                          - listitem [ref=e276]:
+                            - img [ref=e277]
+                          - listitem [ref=e278]:
+                            - img [ref=e279]
+                      - link "View" [ref=e282] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-skypearl-lounge
+                - generic [ref=e283]:
+                  - generic [ref=e286]: Departures
+                  - generic [ref=e288]:
+                    - generic [ref=e289]:
+                      - generic [ref=e290]: 
+                      - text: Departures, West Side
+                    - heading "China Southern First/Business Class Lounge (Domestic Departure)" [level=4] [ref=e291]:
+                      - link "China Southern First/Business Class Lounge (Domestic Departure)" [ref=e292] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-first-business-class-lounge
+                    - generic [ref=e293]: 0430 till the last flight daily
+                    - generic [ref=e294]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e295]
+                    - generic [ref=e296]:
+                      - generic [ref=e297]:
+                        - generic [ref=e298]: Features available
+                        - list [ref=e299]:
+                          - listitem [ref=e300]:
+                            - img [ref=e301]
+                          - listitem [ref=e302]:
+                            - img [ref=e303]
+                          - listitem [ref=e304]:
+                            - img [ref=e305]
+                          - listitem [ref=e306]:
+                            - img [ref=e307]
+                          - listitem [ref=e308]:
+                            - img [ref=e309]
+                      - link "View" [ref=e312] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-first-business-class-lounge
+                - generic [ref=e313]:
+                  - generic [ref=e316]: Departures
+                  - generic [ref=e318]:
+                    - generic [ref=e319]:
+                      - generic [ref=e320]: 
+                      - text: Departures
+                    - heading "China Southern Lounge (International Departure)" [level=4] [ref=e321]:
+                      - link "China Southern Lounge (International Departure)" [ref=e322] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-lounge
+                    - generic [ref=e323]: 0630 to the last international flight of China Southern Airlines, and only for international flights
+                    - generic [ref=e324]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e325]
+                    - generic [ref=e326]:
+                      - generic [ref=e327]:
+                        - generic [ref=e328]: Features available
+                        - list [ref=e329]:
+                          - listitem [ref=e330]:
+                            - img [ref=e331]
+                          - listitem [ref=e332]:
+                            - img [ref=e333]
+                          - listitem [ref=e334]:
+                            - img [ref=e335]
+                          - listitem [ref=e336]:
+                            - img [ref=e337]
+                      - link "View" [ref=e340] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-daxing-international-airport/china-southern-lounge
+            - heading "Beijing Capital International Airport (PEK)" [level=2] [ref=e341]:
+              - link "Beijing Capital International Airport (PEK)" [ref=e342] [cursor=pointer]:
+                - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-capital-international-airport
+            - generic [ref=e343]:
+              - list [ref=e345]:
+                - listitem [ref=e346]:
+                  - link "All" [ref=e347] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=All
+                - listitem [ref=e348]:
+                  - link "Lounge" [ref=e349] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=Lounge
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - generic [ref=e354]: Departures
+                  - generic [ref=e356]:
+                    - generic [ref=e357]:
+                      - generic [ref=e358]: 
+                      - text: Departures, Terminal 3E
+                    - heading "Joy Lounge (International Departure, Terminal 3E)" [level=4] [ref=e359]:
+                      - link "Joy Lounge (International Departure, Terminal 3E)" [ref=e360] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-capital-international-airport/joyloyintdept3e
+                    - generic [ref=e361]: 24 Hours Daily
+                    - generic [ref=e362]: "* This lounge is owned and managed by a third party."
+                    - separator [ref=e363]
+                    - generic [ref=e364]:
+                      - generic [ref=e365]:
+                        - generic [ref=e366]: Features available
+                        - list [ref=e367]:
+                          - listitem [ref=e368]:
+                            - img [ref=e369]
+                          - listitem [ref=e370]:
+                            - img [ref=e371]
+                          - listitem [ref=e372]:
+                            - img [ref=e373]
+                          - listitem [ref=e374]:
+                            - img [ref=e375]
+                          - listitem [ref=e376]:
+                            - img [ref=e377]
+                          - listitem [ref=e378]:
+                            - img [ref=e379]
+                          - listitem [ref=e380]:
+                            - img [ref=e381]
+                      - link "View" [ref=e384] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-capital-international-airport/joyloyintdept3e
+                - generic [ref=e385]:
+                  - generic [ref=e388]: Departures
+                  - generic [ref=e390]:
+                    - generic [ref=e391]:
+                      - generic [ref=e392]: 
+                      - text: Departures, Terminal 2
+                    - heading "V2 China Eastern Lounge (Domestic Departure, Terminal 2)" [level=4] [ref=e393]:
+                      - link "V2 China Eastern Lounge (Domestic Departure, Terminal 2)" [ref=e394] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-capital-international-airport/v2-china-eastern
+                    - generic [ref=e395]: 0500 till the last flight daily
+                    - generic [ref=e396]: "* This lounge is owned and managed by a third party."
+                    - generic [ref=e397]:
+                      - generic [ref=e398]: 
+                      - text: Open for eligible passengers flying with China Eastern Airlines and Shanghai Airlines only.
+                    - separator [ref=e399]
+                    - generic [ref=e400]:
+                      - generic [ref=e401]:
+                        - generic [ref=e402]: Features available
+                        - list [ref=e403]:
+                          - listitem [ref=e404]:
+                            - img [ref=e405]
+                          - listitem [ref=e406]:
+                            - img [ref=e407]
+                          - listitem [ref=e408]:
+                            - img [ref=e409]
+                          - listitem [ref=e410]:
+                            - img [ref=e411]
+                          - listitem [ref=e412]:
+                            - img [ref=e413]
+                      - link "View" [ref=e416] [cursor=pointer]:
+                        - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-capital-international-airport/v2-china-eastern
+            - heading "Beijing Railway Station" [level=2] [ref=e417]:
+              - link "Beijing Railway Station" [ref=e418] [cursor=pointer]:
+                - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-railway-station
+            - generic [ref=e419]:
+              - list [ref=e421]:
+                - listitem [ref=e422]:
+                  - link "All" [ref=e423] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=All
+                - listitem [ref=e424]:
+                  - link "Lounge" [ref=e425] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=Lounge
+              - generic [ref=e427]:
+                - generic [ref=e428]:
+                  - generic [ref=e430]: Departures
+                  - img [ref=e432]
+                - generic [ref=e433]:
+                  - generic [ref=e434]: Departures Beijing Railway Station
+                  - heading "Joyful Journey Railway VIP Lounge (Domestic Departures)" [level=4] [ref=e435]:
+                    - link "Joyful Journey Railway VIP Lounge (Domestic Departures)" [ref=e436] [cursor=pointer]:
+                      - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-railway-station/joyful-journey-railway-vip-lounge
+                  - generic [ref=e437]: 0830 – 2030 daily
+                  - generic [ref=e438]: "* This lounge is owned and managed by a third party."
+                  - separator [ref=e439]
+                  - generic [ref=e440]:
+                    - generic [ref=e441]:
+                      - generic [ref=e442]: Features available
+                      - list [ref=e443]:
+                        - listitem [ref=e444]:
+                          - img [ref=e445]
+                        - listitem [ref=e446]:
+                          - img [ref=e447]
+                        - listitem [ref=e448]:
+                          - img [ref=e449]
+                    - link "View" [ref=e452] [cursor=pointer]:
+                      - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-railway-station/joyful-journey-railway-vip-lounge
+            - heading "Beijing North Railway Station" [level=2] [ref=e453]:
+              - link "Beijing North Railway Station" [ref=e454] [cursor=pointer]:
+                - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-north-railway-station
+            - generic [ref=e455]:
+              - list [ref=e457]:
+                - listitem [ref=e458]:
+                  - link "All" [ref=e459] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=All
+                - listitem [ref=e460]:
+                  - link "Lounge" [ref=e461] [cursor=pointer]:
+                    - /url: /en-uk/find/china-regions/mainland-china/beijing?stype=Lounge
+              - generic [ref=e463]:
+                - generic [ref=e464]:
+                  - generic [ref=e466]: Departures
+                  - img [ref=e468]
+                - generic [ref=e469]:
+                  - generic [ref=e470]: Departures Beijing North Railway Station
+                  - heading "Joyful Journey Railway VIP Lounge (Domestic Departures)" [level=4] [ref=e471]:
+                    - link "Joyful Journey Railway VIP Lounge (Domestic Departures)" [ref=e472] [cursor=pointer]:
+                      - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-north-railway-station/joyful-journey-railway-vip-lounge
+                  - generic [ref=e473]: 0630 - 2100 daily
+                  - generic [ref=e474]: This lounge is owned and managed by a third party operator.
+                  - separator [ref=e475]
+                  - generic [ref=e476]:
+                    - generic [ref=e477]:
+                      - generic [ref=e478]: Features available
+                      - list [ref=e479]:
+                        - listitem [ref=e480]:
+                          - img [ref=e481]
+                        - listitem [ref=e482]:
+                          - img [ref=e483]
+                    - link "View" [ref=e486] [cursor=pointer]:
+                      - /url: /en-uk/find/china-regions/mainland-china/beijing/beijing-north-railway-station/joyful-journey-railway-vip-lounge
+        - generic [ref=e488]:
+          - generic [ref=e489]:
+            - list [ref=e490]:
+              - listitem [ref=e491]:
+                - paragraph [ref=e492]: "Online payment options:"
+              - listitem [ref=e493]:
+                - img [ref=e494]
+              - listitem [ref=e495]:
+                - img [ref=e496]
+              - listitem [ref=e497]:
+                - img [ref=e498]
+              - listitem [ref=e499]:
+                - img [ref=e500]
+              - listitem [ref=e501]:
+                - img [ref=e502]
+              - listitem [ref=e503]:
+                - img [ref=e504]
+            - heading "Sign up to stay in touch" [level=3] [ref=e505]
+            - generic [ref=e507]:
+              - generic [ref=e508]:
+                - generic [ref=e509]: First name
+                - textbox [ref=e510]: First name
+              - generic [ref=e511]:
+                - generic [ref=e512]: Last name
+                - textbox [ref=e513]: Last name
+              - generic [ref=e514]:
+                - generic [ref=e515]: Email Address
+                - textbox [ref=e516]: Email
+              - link "Submit" [ref=e517] [cursor=pointer]:
+                - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("p$lt$WebPartZone9$ZFooterNewsletter$NetcoreNewsletter$llb_Submit", "", true, "newsletter", "", false, true))
+            - generic [ref=e518]:
+              - text: By submitting your details, you agree to our
+              - link "Privacy Policy" [ref=e519] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+          - generic [ref=e520]:
+            - generic [ref=e521]:
+              - list [ref=e524]:
+                - listitem [ref=e525]:
+                  - link "" [ref=e526] [cursor=pointer]:
+                    - /url: https://www.facebook.com/plazapremiumlounge
+                    - generic [ref=e527]: 
+                - listitem [ref=e528]:
+                  - link "" [ref=e529] [cursor=pointer]:
+                    - /url: https://www.instagram.com/plazapremiumlounge
+                    - generic [ref=e530]: 
+                - listitem [ref=e531]:
+                  - link "" [ref=e532] [cursor=pointer]:
+                    - /url: /PlazaPremiumLounge/media/PPLMedia/Pages/Home/PPG_WeChat_640x640.JPG
+                    - generic [ref=e533]: 
+              - generic [ref=e536]:
+                - link [ref=e538] [cursor=pointer]:
+                  - /url: http://www.plazapremiumgroup.com/
+                  - img [ref=e539]
+                - generic [ref=e540]:
+                  - generic [ref=e541]:
+                    - generic [ref=e542]:
+                      - generic [ref=e543]: Lounge
+                      - list [ref=e544]:
+                        - listitem [ref=e545]:
+                          - link [ref=e546] [cursor=pointer]:
+                            - /url: https://www.plazapremiumlounge.com/
+                            - img [ref=e547]
+                        - listitem [ref=e548]
+                        - listitem [ref=e549]:
+                          - img [ref=e550]
+                    - generic [ref=e552]:
+                      - generic [ref=e553]: Concierge
+                      - list [ref=e554]:
+                        - listitem [ref=e555]:
+                          - link [ref=e556] [cursor=pointer]:
+                            - /url: https://www.allwaysvip.com/
+                            - img [ref=e557]
+                        - listitem [ref=e558]:
+                          - img [ref=e559]
+                    - generic [ref=e561]:
+                      - generic [ref=e562]: Hotel
+                      - list [ref=e563]:
+                        - listitem [ref=e564]:
+                          - link [ref=e565] [cursor=pointer]:
+                            - /url: https://www.myaerotel.com/
+                        - listitem [ref=e566]:
+                          - img [ref=e567]
+                  - generic [ref=e571]:
+                    - generic [ref=e572]:
+                      - generic [ref=e573]: F&B
+                      - list [ref=e574]:
+                        - listitem [ref=e575]:
+                          - link [ref=e576] [cursor=pointer]:
+                            - /url: https://www.intervalsbar.com/
+                        - listitem [ref=e577]:
+                          - link [ref=e578] [cursor=pointer]:
+                            - /url: https://www.airport-dining.com/
+                            - img [ref=e579]
+                    - generic [ref=e582]:
+                      - generic [ref=e583]: Reward & Membership Programme
+                      - list [ref=e584]:
+                        - listitem [ref=e585]:
+                          - link [ref=e586] [cursor=pointer]:
+                            - /url: https://www.mysmarttraveller.com/h/home
+                            - img [ref=e587]
+            - separator [ref=e588]
+            - generic [ref=e590]:
+              - text: © Copyright 2026 Plaza Premium Lounge Management Limited. All Rights Reserved. Please read our
+              - link "Terms of Use" [ref=e591] [cursor=pointer]:
+                - /url: /discover/terms-of-use/
+              - text: "&"
+              - link "Privacy Policy" [ref=e592] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+        - generic [ref=e596]:
+          - generic [ref=e597]:
+            - paragraph
+            - paragraph [ref=e598]:
+              - text: In order to enable certain services/features and improve your website experience, our website uses tools such as cookies, which collect data on how you interact with our website.
+              - text: By continuing to use our website, you agree to our use of such cookies. You can find more information on our data usage and cookie policy
+              - link "here." [ref=e599] [cursor=pointer]:
+                - /url: /discover/data-privacy-security-policy/
+                - strong [ref=e600]: here.
+            - paragraph
+          - button "I Understand" [ref=e602] [cursor=pointer]
+        - text: 
+    - text:   
+  - iframe [ref=e603]:
+    - generic [ref=f30e2]:
+      - generic [ref=f30e3] [cursor=pointer]: X
+      - generic [ref=f30e6]:
+        - paragraph [ref=f30e9]:
+          - strong [ref=f30e10]:
+            - generic [ref=f30e12]: Join Smart Traveller and unlock up to 20% off your booking.
+        - link "Know More" [ref=f30e15] [cursor=pointer]:
+          - /url: https://www.plazapremiumlounge.com/en-uk/discover/partner-offers/smart-traveller
+          - generic [ref=f30e16]: Know More
+  - iframe [ref=e604]:
+    - button "Chat" [ref=f31e4] [cursor=pointer]:
+      - generic [ref=f31e5]:
+        - img [ref=f31e6]
+        - text: Chat

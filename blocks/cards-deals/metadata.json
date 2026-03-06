@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-deals",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-06T07:13:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.plazapremiumlounge.com/en-uk",
+    "originPage": "Plaza Premium Lounge homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "promotional-offers",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + title + description + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "promotional deal cards",
+      "partner offer listings",
+      "featured content grids"
+    ],
+    "notSuitableFor": [
+      "icon-based feature cards",
+      "team member cards",
+      "pricing cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-uk"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-06T07:13:00.000Z"
+  }
+}

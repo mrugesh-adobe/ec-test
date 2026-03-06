@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-promo",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-06T07:13:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.plazapremiumlounge.com/en-uk",
+    "originPage": "Plaza Premium Lounge homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "promotional-feature",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "promotional feature banners",
+      "offer sections with image and text",
+      "CTA-driven content sections"
+    ],
+    "notSuitableFor": [
+      "multi-column text layouts",
+      "comparison columns",
+      "icon-based feature columns"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-uk"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-06T07:13:00.000Z"
+  }
+}
